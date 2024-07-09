@@ -877,13 +877,13 @@ A curated list of awesome ChatGPT frameworks, libraries and software.
 * [leon-fong/ChatGPT-miniprogram](https://github.com/leon-fong/ChatGPT-miniprogram) - 🤖 ChatGPT 小程序
 * [MustangYM/OSXChatGpt](https://github.com/MustangYM/OSXChatGpt) - Easy to use OpenAI ChatGPT on your mac !
 * [lucidrains/medical-chatgpt](https://github.com/lucidrains/medical-chatgpt) - Implementation of ChatGPT, but tailored towards primary care medicine, with the reward being able to collect patient histories in a thorough and efficient manner and come up with a reasonable differential diagnosis
+* [shibing624/ChatPilot](https://github.com/shibing624/ChatPilot) - ChatPilot: 实现AgentChat对话，支持Google搜索、文件网址对话（RAG）、代码解释器功能，复现了Kimi Chat(文件，拖进来；网址，发出来)。
 * [pleisto/flappy](https://github.com/pleisto/flappy) - Production-Ready LLM Agent SDK for Every Developer
 * [L-a-r-t/chatgpt-to-notion](https://github.com/L-a-r-t/chatgpt-to-notion) - ChatGPT to Notion brings the cleverness of ChatGPT right into your Notion workspace!
 * [lspahija/AIUI](https://github.com/lspahija/AIUI) - AIUI is a platform enabling seamless two-way verbal communication with AI.
 * [edgenai/edgen](https://github.com/edgenai/edgen) - ⚡  Edgen: Local, private GenAI server alternative to OpenAI. No GPU required. Run AI models locally: LLMs (Llama2, Mistral, Mixtral...), Speech-to-text (whisper) and many others.
 * [bytemate/larkgpt](https://github.com/bytemate/larkgpt) - Lark chatgpt bot
 * [shican1234/chatgpt-java-uniapp](https://github.com/shican1234/chatgpt-java-uniapp) - java开发的chatgpt小程序  前端使用uniapp,可打包多端运行,APP,H5,公众号,小程序等 ,三级分销,卡密充值,提供opai的反向代理,支持WEB端，SD绘画等AI绘画功能。基础的CHATPDF阅读功能，MarkDown语法，代码高亮，表格格式化等。
-* [shibing624/ChatPilot](https://github.com/shibing624/ChatPilot) - ChatPilot: 实现AgentChat对话，支持Google搜索、文件网址对话（RAG）、代码解释器功能，复现了Kimi Chat(文件，拖进来；网址，发出来)。
 * [reorx/Share-to-ChatGPT-Shortcut](https://github.com/reorx/Share-to-ChatGPT-Shortcut) - An Apple Shortcut for sharing text to ChatGPT using personalized prompts
 * [nickbild/voice_chatgpt](https://github.com/nickbild/voice_chatgpt) - VoiceGPT is a voice assistant that leverages the powerful ChatGPT chatbot to answer your questions.
 * [upgini/upgini](https://github.com/upgini/upgini) - Data search & enrichment library for Machine Learning → Easily find and add relevant features to your ML & AI pipeline from hundreds of public and premium external data sources, including open & commercial LLMs
