@@ -47,8 +47,8 @@ A curated list of awesome ChatGPT frameworks, libraries and software.
 * [pppscn/SmsForwarder](https://github.com/pppscn/SmsForwarder) - 短信转发器——监控Android手机短信、来电、APP通知，并根据指定规则转发到其他手机：钉钉群自定义机器人、钉钉企业内机器人、企业微信群机器人、飞书机器人、企业微信应用消息、邮箱、bark、webhook、Telegram机器人、Server酱、PushPlus、手机短信等。包括主动控制服务端与客户端，让你轻松远程发短信、查短信、查通话、查话簿、查电量等。（V3.0 新增）PS.这个APK主要是学习与自用，如有BUG请提ISSUE，同时欢迎大家提PR指正
 * [xx025/carrot](https://github.com/xx025/carrot) - Free ChatGPT Site List 这儿为你准备了众多免费好用的ChatGPT镜像站点
 * [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - :mag: AI orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your data. With advanced retrieval methods, it's best suited for building RAG, question answering, semantic search or conversational agent chatbots.
-* [ml-tooling/best-of-ml-python](https://github.com/ml-tooling/best-of-ml-python) - 🏆 A ranked list of awesome machine learning Python libraries. Updated weekly.
 * [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Continue is the leading open-source AI code assistant. You can connect any models and any context to build custom autocomplete and chat experiences inside VS Code and JetBrains
+* [ml-tooling/best-of-ml-python](https://github.com/ml-tooling/best-of-ml-python) - 🏆 A ranked list of awesome machine learning Python libraries. Updated weekly.
 * [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) - 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
 * [vpncn/vpncn.github.io](https://github.com/vpncn/vpncn.github.io) - 2024中国翻墙软件VPN推荐以及科学上网避坑，稳定好用。对比SSR机场、蓝灯、V2ray、老王VPN、VPS搭建梯子等科学上网与翻墙软件，中国最新科学上网翻墙梯子VPN下载推荐，访问Chatgpt。
 * [GaiZhenbiao/ChuanhuChatGPT](https://github.com/GaiZhenbiao/ChuanhuChatGPT) - GUI for ChatGPT API and many LLMs. Supports agents, file-based QA, GPT finetuning and query with web search. All with a neat UI.
@@ -61,8 +61,8 @@ A curated list of awesome ChatGPT frameworks, libraries and software.
 * [fuergaosi233/wechat-chatgpt](https://github.com/fuergaosi233/wechat-chatgpt) - Use ChatGPT On Wechat via wechaty
 * [datawhalechina/leedl-tutorial](https://github.com/datawhalechina/leedl-tutorial) - 《李宏毅深度学习教程》（李宏毅老师推荐👍，苹果书🍎），PDF下载地址：https://github.com/datawhalechina/leedl-tutorial/releases
 * [lss233/chatgpt-mirai-qq-bot](https://github.com/lss233/chatgpt-mirai-qq-bot) - 🚀 一键部署！真正的 AI 聊天机器人！支持ChatGPT、文心一言、讯飞星火、Bing、Bard、ChatGLM、POE，多账号，人设调教，虚拟女仆、图片渲染、语音发送 | 支持 QQ、Telegram、Discord、微信 等平台
-* [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Get answers to your questions, whether they be online or in your own notes. Use online AI models (e.g gpt4) or private, local LLMs (e.g llama3). Self-host locally or use our cloud instance. Access from Obsidian, Emacs, Desktop app, Web or Whatsapp.
 * [feder-cr/Auto_Jobs_Applier_AIHawk](https://github.com/feder-cr/Auto_Jobs_Applier_AIHawk) - Auto_Jobs_Applier_AIHawk is a tool that automates  the jobs application process. Utilizing artificial intelligence, it enables users to apply for multiple job offers in an automated and personalized way.
+* [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Get answers to your questions, whether they be online or in your own notes. Use online AI models (e.g gpt4) or private, local LLMs (e.g llama3). Self-host locally or use our cloud instance. Access from Obsidian, Emacs, Desktop app, Web or Whatsapp.
 * [steven-tey/novel](https://github.com/steven-tey/novel) - Notion-style WYSIWYG editor with AI-powered autocompletion.
 * [botpress/botpress](https://github.com/botpress/botpress) - The open-source hub to build & deploy GPT/LLM Agents ⚡️
 * [BlinkDL/RWKV-LM](https://github.com/BlinkDL/RWKV-LM) - RWKV is an RNN with transformer-level LLM performance. It can be directly trained like a GPT (parallelizable). So it's combining the best of RNN and transformer - great performance, fast inference, saves VRAM, fast training, "infinite" ctx_len, and free sentence embedding.
@@ -96,14 +96,14 @@ A curated list of awesome ChatGPT frameworks, libraries and software.
 * [xiangsx/gpt4free-ts](https://github.com/xiangsx/gpt4free-ts) - Providing a free OpenAI GPT-4 API !   This is a replication project for the typescript version of xtekky/gpt4free
 * [intitni/CopilotForXcode](https://github.com/intitni/CopilotForXcode) - The missing GitHub Copilot, Codeium and ChatGPT Xcode Source Editor Extension
 * [liaokongVFX/LangChain-Chinese-Getting-Started-Guide](https://github.com/liaokongVFX/LangChain-Chinese-Getting-Started-Guide) - LangChain 的中文入门教程
-* [idootop/mi-gpt](https://github.com/idootop/mi-gpt) - 🏠 将小爱音箱接入 ChatGPT 和豆包，改造成你的专属语音助手。
 * [huggingface/chat-ui](https://github.com/huggingface/chat-ui) - Open source codebase powering the HuggingChat app
+* [idootop/mi-gpt](https://github.com/idootop/mi-gpt) - 🏠 将小爱音箱接入 ChatGPT 和豆包，改造成你的专属语音助手。
 * [YaoApp/yao](https://github.com/YaoApp/yao) - :rocket: A performance app engine to create web services and applications in minutes.Suitable for AI, IoT, Industrial Internet, Connected Vehicles, DevOps, Energy, Finance and many other use-cases.
 * [zilliztech/GPTCache](https://github.com/zilliztech/GPTCache) - Semantic cache for LLMs. Fully integrated with LangChain and llama_index.
 * [Chainlit/chainlit](https://github.com/Chainlit/chainlit) - Build Conversational AI in minutes ⚡️
 * [spdustin/ChatGPT-AutoExpert](https://github.com/spdustin/ChatGPT-AutoExpert) - 🚀🧠💬 Supercharged Custom Instructions for ChatGPT (non-coding) and ChatGPT Advanced Data Analysis (coding).
-* [Sitoi/dailycheckin](https://github.com/Sitoi/dailycheckin) - 基于「Docker」/「青龙面板」/「群晖」的每日签到脚本（支持多账号）签到列表: ｜爱奇艺｜全民K歌｜有道云笔记｜百度贴吧｜Bilibili｜V2EX｜AcFun｜什么值得买｜阿里云盘｜i茅台申购｜小米运动｜百度搜索资源平台｜恩山论坛｜奥拉星｜
 * [supermemoryai/supermemory](https://github.com/supermemoryai/supermemory) - Build your own second brain with supermemory. It's a ChatGPT for your bookmarks. Import tweets or save websites and content using the chrome extension.
+* [Sitoi/dailycheckin](https://github.com/Sitoi/dailycheckin) - 基于「Docker」/「青龙面板」/「群晖」的每日签到脚本（支持多账号）签到列表: ｜爱奇艺｜全民K歌｜有道云笔记｜百度贴吧｜Bilibili｜V2EX｜AcFun｜什么值得买｜阿里云盘｜i茅台申购｜小米运动｜百度搜索资源平台｜恩山论坛｜奥拉星｜
 * [interstellard/chatgpt-advanced](https://github.com/interstellard/chatgpt-advanced) - WebChatGPT: A browser extension that augments your ChatGPT prompts with web results.
 * [vincelwt/chatgpt-mac](https://github.com/vincelwt/chatgpt-mac) - ChatGPT for Mac, living in your menubar.
 * [0xk1h0/ChatGPT_DAN](https://github.com/0xk1h0/ChatGPT_DAN) - ChatGPT DAN, Jailbreaks prompt
@@ -111,9 +111,9 @@ A curated list of awesome ChatGPT frameworks, libraries and software.
 * [wzpan/wukong-robot](https://github.com/wzpan/wukong-robot) - 🤖 wukong-robot 是一个简单、灵活、优雅的中文语音对话机器人/智能音箱项目，支持ChatGPT多轮对话能力，还可能是首个支持脑机交互的开源智能音箱项目。
 * [run-llama/rags](https://github.com/run-llama/rags) - Build ChatGPT over your data, all with natural language
 * [vercel/ai-chatbot](https://github.com/vercel/ai-chatbot) - A full-featured, hackable Next.js AI chatbot built by Vercel
+* [lencx/Noi](https://github.com/lencx/Noi) - 🚀 Power Your World with AI - Explore, Extend, Empower.
 * [Fechin/reference](https://github.com/Fechin/reference) - ⭕ Share quick reference cheat sheet for developers.
 * [yihong0618/xiaogpt](https://github.com/yihong0618/xiaogpt) - Play ChatGPT and other LLM with Xiaomi AI Speaker
-* [lencx/Noi](https://github.com/lencx/Noi) - 🚀 Power Your World with AI - Explore, Extend, Empower.
 * [Blazity/next-enterprise](https://github.com/Blazity/next-enterprise) - 💼 An enterprise-grade Next.js boilerplate for high-performance, maintainable apps. Packed with features like Tailwind CSS, TypeScript, ESLint, Prettier, testing tools, and more to accelerate your development.
 * [jason5ng32/MyIP](https://github.com/jason5ng32/MyIP) - The best IP Toolbox. Easy to check what's your IPs, IP geolocation, check for DNS leaks, examine WebRTC connections, speed test, ping test, MTR test, check website availability, whois search and more! || 🇨🇳 可能是最好用的IP工具箱。轻松检查你的 IP，IP 地理位置，检查DNS泄漏，检查 WebRTC 连接，速度测试，ping 测试，MTR测试，检查网站可用性，查询 Whois 信息等等。
 * [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - Generate conventional git commit messages with AI in 1 second 🤯🔫
@@ -123,22 +123,22 @@ A curated list of awesome ChatGPT frameworks, libraries and software.
 * [ramon-victor/freegpt-webui](https://github.com/ramon-victor/freegpt-webui) - GPT 3.5/4 with a Chat Web UI. No API key required.
 * [baichuan-inc/Baichuan-7B](https://github.com/baichuan-inc/Baichuan-7B) - A large-scale 7B pretraining language model developed by BaiChuan-Inc.
 * [purocean/yn](https://github.com/purocean/yn) - A highly extensible Markdown editor. Version control, AI Copilot, mind map, documents encryption, code snippet running, integrated terminal, chart embedding, HTML applets, Reveal.js, plug-in, and macro replacement.
-* [PawanOsman/ChatGPT](https://github.com/PawanOsman/ChatGPT) - OpenAI API Free Reverse Proxy
 * [langgptai/LangGPT](https://github.com/langgptai/LangGPT) - LangGPT: Empowering everyone to become a prompt expert!🚀  Structured Prompt，Language of GPT, 结构化提示词，结构化Prompt
+* [PawanOsman/ChatGPT](https://github.com/PawanOsman/ChatGPT) - OpenAI API Free Reverse Proxy
 * [openai-translator/bob-plugin-openai-translator](https://github.com/openai-translator/bob-plugin-openai-translator) - 基于 OpenAI API 的文本翻译、文本润色、语法纠错 Bob 插件，让我们一起迎接不需要巴别塔的新时代！Licensed under CC BY-NC-SA 4.0
-* [ConnectAI-E/feishu-openai](https://github.com/ConnectAI-E/feishu-openai) - 🎒 飞书  ×（GPT-4 + GPT-4V + DALL·E-3 + Whisper）=  飞一般的工作体验  🚀 语音对话、角色扮演、多话题讨论、图片创作、表格分析、文档导出 🚀
 * [EwingYangs/awesome-open-gpt](https://github.com/EwingYangs/awesome-open-gpt) - Collection of Open Source Projects Related to GPT，GPT相关开源项目合集🚀、精选🔥🔥
+* [ConnectAI-E/feishu-openai](https://github.com/ConnectAI-E/feishu-openai) - 🎒 飞书  ×（GPT-4 + GPT-4V + DALL·E-3 + Whisper）=  飞一般的工作体验  🚀 语音对话、角色扮演、多话题讨论、图片创作、表格分析、文档导出 🚀
 * [enricoros/big-AGI](https://github.com/enricoros/big-AGI) - Generative AI suite powered by state-of-the-art models and providing advanced AI/AGI functions. It features AI personas, AGI functions, multi-model chats, text-to-image, voice, response streaming, code highlighting and execution, PDF import, presets for developers, much more. Deploy on-prem or in the cloud.
 * [JimmyLv/BibiGPT-v1](https://github.com/JimmyLv/BibiGPT-v1) - BibiGPT v1 · one-Click AI Summary for Audio/Video & Chat with Learning Content: Bilibili | YouTube | Tweet丨TikTok丨Dropbox丨Google Drive丨Local files | Websites丨Podcasts | Meetings | Lectures, etc. 音视频内容 AI 一键总结 & 对话：哔哩哔哩丨YouTube丨推特丨小红书丨抖音丨快手丨百度网盘丨阿里云盘丨网页丨播客丨会议丨本地文件等 (原 BiliGPT 省流神器 & AI课代表)
 * [Upsonic/gpt-computer-assistant](https://github.com/Upsonic/gpt-computer-assistant) - Intelligence development framework in python for your product like Apple Intelligence
 * [thinkingjimmy/Learning-Prompt](https://github.com/thinkingjimmy/Learning-Prompt) - Free prompt engineering online course. ChatGPT and Midjourney tutorials are now included!
 * [wangrongding/wechat-bot](https://github.com/wangrongding/wechat-bot) - 🤖一个基于 WeChaty 结合 OpenAi ChatGPT / Kimi / 讯飞等Ai服务实现的微信机器人 ，可以用来帮助你自动回复微信消息，或者管理微信群/好友，检测僵尸粉等...
 * [father-bot/chatgpt_telegram_bot](https://github.com/father-bot/chatgpt_telegram_bot) - 💬 Telegram bot with ChatGPT, Python-based, using OpenAI's API.
-* [josStorer/RWKV-Runner](https://github.com/josStorer/RWKV-Runner) - A RWKV management and startup tool, full automation, only 8MB. And provides an interface compatible with the OpenAI API. RWKV is a large language model that is fully open source and available for commercial use.
-* [zxlie/FeHelper](https://github.com/zxlie/FeHelper) - 😍FeHelper--Web前端助手（Awesome！Chrome & Firefox & MS-Edge Extension, All in one Toolbox!）
-* [ai-boost/awesome-prompts](https://github.com/ai-boost/awesome-prompts) - Curated list of chatgpt prompts from the top-rated GPTs in the GPTs Store. Prompt Engineering, prompt attack & prompt protect. Advanced Prompt Engineering papers.
-* [sindresorhus/awesome-chatgpt](https://github.com/sindresorhus/awesome-chatgpt) - 🤖 Awesome list for ChatGPT — an artificial intelligence chatbot developed by OpenAI
 * [FunAudioLLM/CosyVoice](https://github.com/FunAudioLLM/CosyVoice) - Multi-lingual large voice generation model, providing inference, training and deployment full-stack ability.
+* [josStorer/RWKV-Runner](https://github.com/josStorer/RWKV-Runner) - A RWKV management and startup tool, full automation, only 8MB. And provides an interface compatible with the OpenAI API. RWKV is a large language model that is fully open source and available for commercial use.
+* [ai-boost/awesome-prompts](https://github.com/ai-boost/awesome-prompts) - Curated list of chatgpt prompts from the top-rated GPTs in the GPTs Store. Prompt Engineering, prompt attack & prompt protect. Advanced Prompt Engineering papers.
+* [zxlie/FeHelper](https://github.com/zxlie/FeHelper) - 😍FeHelper--Web前端助手（Awesome！Chrome & Firefox & MS-Edge Extension, All in one Toolbox!）
+* [sindresorhus/awesome-chatgpt](https://github.com/sindresorhus/awesome-chatgpt) - 🤖 Awesome list for ChatGPT — an artificial intelligence chatbot developed by OpenAI
 * [mpociot/chatgpt-vscode](https://github.com/mpociot/chatgpt-vscode) - A VSCode extension that allows you to use ChatGPT
 * [mnotgod96/AppAgent](https://github.com/mnotgod96/AppAgent) - AppAgent: Multimodal Agents as Smartphone Users, an LLM-based multimodal agent framework designed to operate smartphone apps.
 * [lvwzhen/law-cn-ai](https://github.com/lvwzhen/law-cn-ai) - ⚖️ AI 法律助手
@@ -167,8 +167,8 @@ A curated list of awesome ChatGPT frameworks, libraries and software.
 * [Hanson/vbot](https://github.com/Hanson/vbot) - 微信，企微，机器人，企业微信，企微机器人，微信机器人，小红书，美团，美团爬虫，聚合聊天，RPA，协议，hook，逆向，群发，自动回复，chatgpt，API对接，稳定防封全语言通用，企业定制/SCRM/SAAS专用
 * [keijiro/AICommand](https://github.com/keijiro/AICommand) - ChatGPT integration with Unity Editor
 * [anc95/ChatGPT-CodeReview](https://github.com/anc95/ChatGPT-CodeReview) - 🐥 A code review bot powered by ChatGPT
-* [futantan/OpenGpt](https://github.com/futantan/OpenGpt) - Create your own ChatGPT App in seconds.
 * [h2oai/h2o-llmstudio](https://github.com/h2oai/h2o-llmstudio) - H2O LLM Studio - a framework and no-code GUI for fine-tuning LLMs. Documentation: https://docs.h2o.ai/h2o-llmstudio/
+* [futantan/OpenGpt](https://github.com/futantan/OpenGpt) - Create your own ChatGPT App in seconds.
 * [NotFound9/interviewGuide](https://github.com/NotFound9/interviewGuide) - 推荐免费ChatGPT网站：https://www.lintcode.com/chat-gpt?utm_source=tf-github-NotFound  点此领取7天VIP会员：https://www.lintcode.com/vip/activity/z1qgMH           《大厂面试指北》——包括Java基础、JVM、数据库、mysql、redis、计算机网络、算法、数据结构、操作系统、设计模式、系统设计、框架原理。
 * [zhayujie/bot-on-anything](https://github.com/zhayujie/bot-on-anything) - Connect AI models (like ChatGPT-3.5/4.0, Baidu Yiyan, New Bing, Bard) to apps (like Wechat, public account, DingTalk, Telegram,  QQ).  将 ChatGPT、必应、文心一言、谷歌Bard 等对话模型连接各类应用，如微信、公众号、QQ、Telegram、Gmail、Slack、Web、企业微信、飞书、钉钉等。
 * [m1guelpf/chatgpt-telegram](https://github.com/m1guelpf/chatgpt-telegram) - Run your own GPTChat Telegram bot, with a single command!
@@ -183,8 +183,8 @@ A curated list of awesome ChatGPT frameworks, libraries and software.
 * [yangjian102621/geekai](https://github.com/yangjian102621/geekai) - AI 助手全套开源解决方案，自带运营管理后台，开箱即用。集成了 ChatGPT, Azure, ChatGLM,讯飞星火，文心一言等多个平台的大语言模型。支持 MJ AI 绘画，Stable Diffusion AI  绘画，微博热搜等插件工具。采用 Go + Vue3 + element-plus 实现。
 * [hiyouga/ChatGLM-Efficient-Tuning](https://github.com/hiyouga/ChatGLM-Efficient-Tuning) - Fine-tuning ChatGLM-6B with PEFT | 基于 PEFT 的高效 ChatGLM 微调
 * [llm-workflow-engine/llm-workflow-engine](https://github.com/llm-workflow-engine/llm-workflow-engine) - Power CLI and Workflow manager for LLMs (core package)
-* [yonggekkk/warp-yg](https://github.com/yonggekkk/warp-yg) - warp多功能一键脚本，支持warp-go与wgcf切换，无限生成warp配置文件，支持升级warp+、warp团队账户，查看VPS本地IP、netflix、chatgpt解锁状态
 * [eth-sri/lmql](https://github.com/eth-sri/lmql) - A language for constraint-guided and efficient LLM programming.
+* [yonggekkk/warp-yg](https://github.com/yonggekkk/warp-yg) - warp多功能一键脚本，支持warp-go与wgcf切换，无限生成warp配置文件，支持升级warp+、warp团队账户，查看VPS本地IP、netflix、chatgpt解锁状态
 * [Yue-Yang/ChatGPT-Siri](https://github.com/Yue-Yang/ChatGPT-Siri) - Shortcuts for Siri using ChatGPT API gpt-3.5-turbo & gpt-4 model, supports continuous conversations, configure the API key & save chat records. 由 ChatGPT API gpt-3.5-turbo & gpt-4 模型驱动的智能 Siri，支持连续对话，配置API key，配置系统prompt，保存聊天记录。
 * [PlexPt/chatgpt-java](https://github.com/PlexPt/chatgpt-java) - ChatGPT Java SDK。支持 GPT3.5、 GPT4 API。开箱即用。
 * [Luodian/Otter](https://github.com/Luodian/Otter) - 🦦 Otter, a multi-modal model based on OpenFlamingo (open-sourced version of DeepMind's Flamingo), trained on MIMIC-IT and showcasing improved instruction-following and in-context learning ability.
@@ -199,9 +199,9 @@ A curated list of awesome ChatGPT frameworks, libraries and software.
 * [esbatmop/MNBVC](https://github.com/esbatmop/MNBVC) - MNBVC(Massive Never-ending BT Vast Chinese corpus)超大规模中文语料集。对标chatGPT训练的40T数据。MNBVC数据集不但包括主流文化，也包括各个小众文化甚至火星文的数据。MNBVC数据集包括新闻、作文、小说、书籍、杂志、论文、台词、帖子、wiki、古诗、歌词、商品介绍、笑话、糗事、聊天记录等一切形式的纯文本中文数据。
 * [missuo/FreeGPT35](https://github.com/missuo/FreeGPT35) - Utilize the unlimited free GPT-3.5-Turbo API service provided by the login-free ChatGPT Web.
 * [Grt1228/chatgpt-java](https://github.com/Grt1228/chatgpt-java) - ChatGPT Java SDK支持流式输出、Gpt插件、联网。支持OpenAI官方所有接口。ChatGPT的Java客户端。OpenAI GPT-3.5-Turb GPT-4  Api Client for Java
+* [iryna-kondr/scikit-llm](https://github.com/iryna-kondr/scikit-llm) - Seamlessly integrate LLMs into scikit-learn.
 * [ayaka14732/ChatGPTAPIFree](https://github.com/ayaka14732/ChatGPTAPIFree) - A simple and open-source proxy API that allows you to access OpenAI's ChatGPT API for free!
 * [pashpashpash/vault-ai](https://github.com/pashpashpash/vault-ai) - OP Vault ChatGPT: Give ChatGPT long-term memory using the OP Stack (OpenAI + Pinecone Vector Database). Upload your own custom knowledge base files (PDF, txt, epub, etc) using a simple React frontend.
-* [iryna-kondr/scikit-llm](https://github.com/iryna-kondr/scikit-llm) - Seamlessly integrate LLMs into scikit-learn.
 * [Drakkar-Software/OctoBot](https://github.com/Drakkar-Software/OctoBot) - Open source crypto trading bot
 * [Moataz-Elmesmary/Data-Science-Roadmap](https://github.com/Moataz-Elmesmary/Data-Science-Roadmap) - Data Science Roadmap from A to Z
 * [guangzhengli/ChatFiles](https://github.com/guangzhengli/ChatFiles) - Document Chatbot — multiple files. Powered by GPT / Embedding.
@@ -240,34 +240,34 @@ A curated list of awesome ChatGPT frameworks, libraries and software.
 * [logancyang/obsidian-copilot](https://github.com/logancyang/obsidian-copilot) - THE Copilot in Obsidian
 * [liucongg/ChatGLM-Finetuning](https://github.com/liucongg/ChatGLM-Finetuning) - 基于ChatGLM-6B、ChatGLM2-6B、ChatGLM3-6B模型，进行下游具体任务微调，涉及Freeze、Lora、P-tuning、全参微调等
 * [georgia-tech-db/evadb](https://github.com/georgia-tech-db/evadb) - Database system for AI-powered apps
-* [gptlink/gptlink](https://github.com/gptlink/gptlink) - 10分钟搭建可免费商用的AI对话环境，搭建简单，包含用户，订单，任务，付费等功能
 * [Zero6992/chatGPT-discord-bot](https://github.com/Zero6992/chatGPT-discord-bot) - Integrate ChatGPT into your own discord bot
-* [PhoebusSi/Alpaca-CoT](https://github.com/PhoebusSi/Alpaca-CoT) - We unified the interfaces of instruction-tuning data (e.g., CoT data), multiple LLMs and parameter-efficient methods (e.g., lora, p-tuning) together for easy use. We welcome open-source enthusiasts to initiate any meaningful PR on this repo and integrate as many LLM related technologies as possible. 我们打造了方便研究人员上手和使用大模型等微调平台，我们欢迎开源爱好者发起任何有意义的pr！
+* [gptlink/gptlink](https://github.com/gptlink/gptlink) - 10分钟搭建可免费商用的AI对话环境，搭建简单，包含用户，订单，任务，付费等功能
 * [DSXiangLi/DecryptPrompt](https://github.com/DSXiangLi/DecryptPrompt) - 总结Prompt&LLM论文，开源数据&模型，AIGC应用
+* [PhoebusSi/Alpaca-CoT](https://github.com/PhoebusSi/Alpaca-CoT) - We unified the interfaces of instruction-tuning data (e.g., CoT data), multiple LLMs and parameter-efficient methods (e.g., lora, p-tuning) together for easy use. We welcome open-source enthusiasts to initiate any meaningful PR on this repo and integrate as many LLM related technologies as possible. 我们打造了方便研究人员上手和使用大模型等微调平台，我们欢迎开源爱好者发起任何有意义的pr！
 * [npiv/chatblade](https://github.com/npiv/chatblade) - A CLI Swiss Army Knife for ChatGPT
-* [liou666/polyglot](https://github.com/liou666/polyglot) - 🤖️  Cross-platform AI language practice app （跨平台AI语言练习应用）
 * [brianpetro/obsidian-smart-connections](https://github.com/brianpetro/obsidian-smart-connections) - Chat with your notes & see links to related content with AI embeddings. Use local models or 100+ via APIs like Claude, Gemini, ChatGPT & Llama 3
-* [ading2210/poe-api](https://github.com/ading2210/poe-api) - [UNMAINTAINED] A reverse engineered Python API wrapper for Quora's Poe, which provides free access to ChatGPT, GPT-4, and Claude.
+* [liou666/polyglot](https://github.com/liou666/polyglot) - 🤖️  Cross-platform AI language practice app （跨平台AI语言练习应用）
 * [howl-anderson/unlocking-the-power-of-llms](https://github.com/howl-anderson/unlocking-the-power-of-llms) - 使用 Prompts 和 Chains 让 ChatGPT 成为神奇的生产力工具！Unlocking the power of LLMs.
+* [ading2210/poe-api](https://github.com/ading2210/poe-api) - [UNMAINTAINED] A reverse engineered Python API wrapper for Quora's Poe, which provides free access to ChatGPT, GPT-4, and Claude.
+* [Zjh-819/LLMDataHub](https://github.com/Zjh-819/LLMDataHub) - A quick guide (especially) for trending instruction finetuning datasets
 * [InternLM/InternLM-XComposer](https://github.com/InternLM/InternLM-XComposer) - InternLM-XComposer-2.5: A Versatile Large Vision Language Model Supporting Long-Contextual Input and Output
 * [IntelligenzaArtificiale/Free-Auto-GPT](https://github.com/IntelligenzaArtificiale/Free-Auto-GPT) - Free Auto GPT with NO paids API is a repository that offers a simple version of Auto GPT, an autonomous AI agent capable of performing tasks independently. Unlike other versions, our implementation does not rely on any paid OpenAI API, making it accessible to anyone.
-* [Zjh-819/LLMDataHub](https://github.com/Zjh-819/LLMDataHub) - A quick guide (especially) for trending instruction finetuning datasets
 * [LangbaseInc/langui](https://github.com/LangbaseInc/langui) - UI for your AI. Open Source Tailwind components tailored for your GPT, generative AI, and LLM projects.
-* [filipecalegario/awesome-generative-ai](https://github.com/filipecalegario/awesome-generative-ai) - A curated list of Generative AI tools, works, models, and references
 * [jeinlee1991/chinese-llm-benchmark](https://github.com/jeinlee1991/chinese-llm-benchmark) - 中文大模型能力评测榜单：目前已囊括115个大模型，覆盖chatgpt、gpt4o、百度文心一言、阿里通义千问、讯飞星火、商汤senseChat、minimax等商用模型， 以及百川、qwen2、glm4、yi、书生internLM2、llama3等开源大模型，多维度能力评测。不仅提供能力评分排行榜，也提供所有模型的原始输出结果！
+* [filipecalegario/awesome-generative-ai](https://github.com/filipecalegario/awesome-generative-ai) - A curated list of Generative AI tools, works, models, and references
 * [eunomia-bpf/bpf-developer-tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial) - eBPF Developer Tutorial: Learning eBPF Step by Step with Examples
 * [kaqijiang/Auto-GPT-ZH](https://github.com/kaqijiang/Auto-GPT-ZH) - Auto-GPT中文版本及爱好者组织 同步更新原项目 AI领域创业 自媒体组织 用AI工作学习创作变现
 * [microsoft/promptbench](https://github.com/microsoft/promptbench) - A unified evaluation framework for large language models
-* [LangLangShanDeNanKe/chatgpt](https://github.com/LangLangShanDeNanKe/chatgpt) - ChatGPT网址导航，分享免费好用AI网站！
 * [billmei/every-chatgpt-gui](https://github.com/billmei/every-chatgpt-gui) - Every front-end GUI client for ChatGPT
-* [Licoy/wordpress-theme-puock](https://github.com/Licoy/wordpress-theme-puock) - :art: 一款基于WordPress开发的高颜值的自适应主题，支持白天与黑夜模式/无刷新加载/第三方登录等众多功能 | A high-value adaptive theme based on WordPress, supports light and dark modes, no refresh loading, etc.
 * [PeterH0323/Streamer-Sales](https://github.com/PeterH0323/Streamer-Sales) - Streamer-Sales 销冠 —— 卖货主播 LLM 大模型🛒🎁，一个能够根据给定的商品特点从激发用户购买意愿角度出发进行商品解说的卖货主播大模型。🚀⭐内含详细的数据生成流程❗ 📦另外还集成了 LMDeploy 加速推理🚀、RAG检索增强生成 📚、TTS文字转语音🔊、数字人生成 🦸、 Agent 使用网络查询实时信息🌐、ASR 语音转文字🎙️、Vue 生态搭建前端🍍、FastAPI 搭建后端🗝️、Docker-compose 打包部署🐋
+* [LangLangShanDeNanKe/chatgpt](https://github.com/LangLangShanDeNanKe/chatgpt) - ChatGPT网址导航，分享免费好用AI网站！
+* [Licoy/wordpress-theme-puock](https://github.com/Licoy/wordpress-theme-puock) - :art: 一款基于WordPress开发的高颜值的自适应主题，支持白天与黑夜模式/无刷新加载/第三方登录等众多功能 | A high-value adaptive theme based on WordPress, supports light and dark modes, no refresh loading, etc.
 * [codigoencasa/builderbot](https://github.com/codigoencasa/builderbot) - 🤖 Crear Chatbot WhatsApp en minutos. Únete a este proyecto OpenSource
 * [langroid/langroid](https://github.com/langroid/langroid) - Harness LLMs with Multi-Agent Programming
-* [paulpierre/RasaGPT](https://github.com/paulpierre/RasaGPT) - 💬 RasaGPT is the first headless LLM chatbot platform built on top of Rasa and Langchain. Built w/ Rasa, FastAPI, Langchain, LlamaIndex, SQLModel, pgvector, ngrok, telegram
 * [xusenlinzy/api-for-open-llm](https://github.com/xusenlinzy/api-for-open-llm) - Openai style api for open large language models, using LLMs just as chatgpt! Support for LLaMA, LLaMA-2, BLOOM, Falcon, Baichuan, Qwen, Xverse, SqlCoder, CodeLLaMA, ChatGLM, ChatGLM2, ChatGLM3 etc. 开源大模型的统一后端接口
-* [cogentapps/chat-with-gpt](https://github.com/cogentapps/chat-with-gpt) - An open-source ChatGPT app with a voice
+* [paulpierre/RasaGPT](https://github.com/paulpierre/RasaGPT) - 💬 RasaGPT is the first headless LLM chatbot platform built on top of Rasa and Langchain. Built w/ Rasa, FastAPI, Langchain, LlamaIndex, SQLModel, pgvector, ngrok, telegram
 * [cs-lazy-tools/ChatGPT-On-CS](https://github.com/cs-lazy-tools/ChatGPT-On-CS) - 基于大模型的智能对话客服工具，支持微信、拼多多、千牛、哔哩哔哩、抖音企业号、抖音、抖店、微博聊天、小红书专业号运营、小红书、知乎等平台接入，可选择 GPT3.5/GPT4.0/ 懒人百宝箱 （后续会支持更多平台），能处理文本、语音和图片，通过插件访问操作系统和互联网等外部资源，支持基于自有知识库定制企业 AI 应用。
+* [cogentapps/chat-with-gpt](https://github.com/cogentapps/chat-with-gpt) - An open-source ChatGPT app with a voice
 * [prompt-engineering/click-prompt](https://github.com/prompt-engineering/click-prompt) - ClickPrompt - Streamline your prompt design, with ClickPrompt, you can easily view, share, and run these prompts with just one click.  ClickPrompt 用于一键轻松查看、分享和执行您的 Prompt。
 * [X-PLUG/mPLUG-Owl](https://github.com/X-PLUG/mPLUG-Owl) - mPLUG-Owl: The Powerful Multi-modal Large Language Model  Family
 * [aurora-develop/aurora](https://github.com/aurora-develop/aurora) - free
@@ -280,11 +280,11 @@ A curated list of awesome ChatGPT frameworks, libraries and software.
 * [TavernAI/TavernAI](https://github.com/TavernAI/TavernAI) - Atmospheric adventure chat for AI language models (KoboldAI, NovelAI, Pygmalion, OpenAI chatgpt, gpt-4)
 * [ha0z1/New-Bing-Anywhere](https://github.com/ha0z1/New-Bing-Anywhere) - 💬 New-Bing-Anywhere extension's source Always use Bing GPT-4
 * [THUDM/AgentBench](https://github.com/THUDM/AgentBench) - A Comprehensive Benchmark to Evaluate LLMs as Agents (ICLR'24)
-* [hncboy/ai-beehive](https://github.com/hncboy/ai-beehive) - AI 蜂巢，基于 Java 使用 Spring Boot 3 和 JDK 17，支持的功能有 ChatGPT、OpenAi Image、Midjourney、NewBing、文心一言等等
 * [verazuo/jailbreak_llms](https://github.com/verazuo/jailbreak_llms) - [CCS'24] A dataset consists of 15,140 ChatGPT prompts from Reddit, Discord, websites, and open-source datasets (including 1,405 jailbreak prompts).
+* [hncboy/ai-beehive](https://github.com/hncboy/ai-beehive) - AI 蜂巢，基于 Java 使用 Spring Boot 3 和 JDK 17，支持的功能有 ChatGPT、OpenAi Image、Midjourney、NewBing、文心一言等等
 * [jtmuller5/The-HustleGPT-Challenge](https://github.com/jtmuller5/The-HustleGPT-Challenge) - Building Startups with an AI Co-Founder
-* [mattnigh/ChatGPT3-Free-Prompt-List](https://github.com/mattnigh/ChatGPT3-Free-Prompt-List) - A free guide for learning to create ChatGPT3 Prompts
 * [eryajf/chatgpt-dingtalk](https://github.com/eryajf/chatgpt-dingtalk) - 🎒 钉钉 & 🤖 GPT-3.5 让你的工作效率直接起飞 🚀 私聊群聊方式、单聊串聊模式、角色扮演、图片创作 🚀
+* [mattnigh/ChatGPT3-Free-Prompt-List](https://github.com/mattnigh/ChatGPT3-Free-Prompt-List) - A free guide for learning to create ChatGPT3 Prompts
 * [zhaoweih/Shadowsocks-Tutorial](https://github.com/zhaoweih/Shadowsocks-Tutorial) - 🐱给小白的Shadowsocks翻墙教程-Easy-to-follow tutorials for beginners on using Shadowsocks to bypass internet restrictions.
 * [taishi-i/awesome-ChatGPT-repositories](https://github.com/taishi-i/awesome-ChatGPT-repositories) - A curated list of resources dedicated to open source GitHub repositories related to ChatGPT
 * [bigemon/ChatGPT-ToolBox](https://github.com/bigemon/ChatGPT-ToolBox) - 由ChatGPT自己编写的ChatGPT工具箱。 当前功能: 1. 绕过高负载禁止登录 2.关闭数据监管 3.链路维持(减少网络错误) 4.API混合接入  5.会话导入导出  6.聊天记录下载 7.解锁GPT4-Mobile
@@ -298,23 +298,23 @@ A curated list of awesome ChatGPT frameworks, libraries and software.
 * [LlmKira/Openaibot](https://github.com/LlmKira/Openaibot) - ⚡️ Build Your Own chatgpt Bot|🧀 Discord/Slack/Kook/Telegram |⛓ ToolCall|🔖 Plugin Support | 🌻 out-of-box | gpt-4o
 * [Jazee6/cloudflare-ai-web](https://github.com/Jazee6/cloudflare-ai-web) - 支持Gemini Pro / Cloudflare Workers AI / ChatGPT的融合Web平台
 * [RManLuo/Awesome-LLM-KG](https://github.com/RManLuo/Awesome-LLM-KG) - Awesome papers about unifying LLMs and KGs
-* [bionic-gpt/bionic-gpt](https://github.com/bionic-gpt/bionic-gpt) - BionicGPT is an on-premise replacement for ChatGPT, offering the advantages of Generative AI while maintaining strict data confidentiality
 * [aandrew-me/tgpt](https://github.com/aandrew-me/tgpt) - AI Chatbots in terminal without needing API keys
+* [bionic-gpt/bionic-gpt](https://github.com/bionic-gpt/bionic-gpt) - BionicGPT is an on-premise replacement for ChatGPT, offering the advantages of Generative AI while maintaining strict data confidentiality
 * [KudoAI/chatgpt.js](https://github.com/KudoAI/chatgpt.js) - 🤖 A powerful, open source client-side JavaScript library for ChatGPT
 * [lanqian528/chat2api](https://github.com/lanqian528/chat2api) - A service that can convert ChatGPT on the web to OpenAI API format.
 * [anse-app/anse](https://github.com/anse-app/anse) - Supercharged experience for multiple models such as ChatGPT, DALL-E and Stable Diffusion.
 * [microsoft/PromptCraft-Robotics](https://github.com/microsoft/PromptCraft-Robotics) - Community for applying LLMs to robotics and a robot simulator with ChatGPT integration
 * [Niek/chatgpt-web](https://github.com/Niek/chatgpt-web) - ChatGPT web interface using the OpenAI API
+* [LearnPrompt/LearnPrompt](https://github.com/LearnPrompt/LearnPrompt) - 永久免费开源的 AIGC 课程, 目前已支持Prompt Engineering, ChatGPT, Midjourney, Runway, Stable Diffusion, AI数字人，AI声音&音乐，开源大模型
 * [OpenMindClub/awesome-chatgpt](https://github.com/OpenMindClub/awesome-chatgpt) - ⚡ Everything about ChatGPT
 * [OkGoDoIt/OpenAI-API-dotnet](https://github.com/OkGoDoIt/OpenAI-API-dotnet) - An unofficial C#/.NET SDK for accessing the OpenAI GPT-3 API
-* [LearnPrompt/LearnPrompt](https://github.com/LearnPrompt/LearnPrompt) - 永久免费开源的 AIGC 课程, 目前已支持Prompt Engineering, ChatGPT, Midjourney, Runway, Stable Diffusion, AI数字人，AI声音&音乐，开源大模型
 * [Kav-K/GPTDiscord](https://github.com/Kav-K/GPTDiscord) - A robust, all-in-one GPT interface for Discord. ChatGPT-style conversations, image generation, AI-moderation, custom indexes/knowledgebase, youtube summarizer, and more!
 * [zjunlp/EasyEdit](https://github.com/zjunlp/EasyEdit) - [ACL 2024] An Easy-to-use Knowledge Editing Framework for LLMs.
 * [sparticleinc/chatgpt-google-summary-extension](https://github.com/sparticleinc/chatgpt-google-summary-extension) - Chrome extension to view ChatGPT summaries alongside Google search results and YouTube videos, also supports Yahoo! ニュース、PubMed、PMC、NewsPicks、Github、Nikkei、 Bing、Google Patents, and any page summary.
 * [leochen-g/wechat-assistant-pro](https://github.com/leochen-g/wechat-assistant-pro) - 智能微秘书，一个全能的微信机器人管理平台，最简单的方式接入 ChatGPT,FastGPT,Dify,Coze知识库，支持绘图，联网查询，语音识别，各种定时任务，支持企微、公众号、5G 消息、WhatsApp
 * [darrenburns/elia](https://github.com/darrenburns/elia) - A snappy, keyboard-centric terminal user interface for interacting with large language models. Chat with ChatGPT, Claude, Llama 3, Phi 3, Mistral, Gemma and more.
-* [TheExplainthis/AI-Products-All-In-One](https://github.com/TheExplainthis/AI-Products-All-In-One) - 彙整了真正實用的 ChatGPT 與生成式 AI 工具
 * [yonggekkk/x-ui-yg](https://github.com/yonggekkk/x-ui-yg) - x-ui精简修改版脚本，集成argo固定临时双隧道（可共存）、本地WARP+Psiphon赛风VPN多国家分流功能，支持部分节点聚合订阅、sing-box订阅、clash-meta订阅的配置输出
+* [TheExplainthis/AI-Products-All-In-One](https://github.com/TheExplainthis/AI-Products-All-In-One) - 彙整了真正實用的 ChatGPT 與生成式 AI 工具
 * [domeccleston/sharegpt](https://github.com/domeccleston/sharegpt) - Easily share permanent links to ChatGPT conversations with your friends
 * [Daiyimo/Access-chatGPT-in-Siri](https://github.com/Daiyimo/Access-chatGPT-in-Siri) - chatGPT全方面接入指南
 * [Synaptrix/ChatGPT-Desktop](https://github.com/Synaptrix/ChatGPT-Desktop) - Fuel your productivity with ChatGPT-Desktop - Blazingly fast and supercharged!
@@ -322,28 +322,28 @@ A curated list of awesome ChatGPT frameworks, libraries and software.
 * [tensorchord/pgvecto.rs](https://github.com/tensorchord/pgvecto.rs) - Scalable, Low-latency and Hybrid-enabled Vector Search in Postgres. Revolutionize Vector Search, not Database.
 * [melih-unsal/DemoGPT](https://github.com/melih-unsal/DemoGPT) - Create 🦜️🔗 LangChain apps by just using prompts🌟 Star to support our work! | 只需使用句子即可创建 LangChain 应用程序。 给个star支持我们的工作吧！
 * [GitHubDaily/ChatGPT-Prompt-Engineering-for-Developers-in-Chinese](https://github.com/GitHubDaily/ChatGPT-Prompt-Engineering-for-Developers-in-Chinese) - 《面向开发者的 ChatGPT 提示词工程》非官方版中英双语字幕 Unofficial subtitles of "ChatGPT Prompt Engineering for Developers"
-* [altryne/chatGPT-telegram-bot](https://github.com/altryne/chatGPT-telegram-bot) - This is a very early attempt at having chatGPT work within a telegram bot
 * [richardyc/Chrome-GPT](https://github.com/richardyc/Chrome-GPT) - An AutoGPT agent that controls Chrome on your desktop
-* [ttengwang/Caption-Anything](https://github.com/ttengwang/Caption-Anything) - Caption-Anything is a versatile tool combining image segmentation, visual captioning, and ChatGPT, generating tailored captions with diverse controls for user preferences. https://huggingface.co/spaces/TencentARC/Caption-Anything https://huggingface.co/spaces/VIPLab/Caption-Anything
+* [altryne/chatGPT-telegram-bot](https://github.com/altryne/chatGPT-telegram-bot) - This is a very early attempt at having chatGPT work within a telegram bot
 * [haibbo/cf-openai-azure-proxy](https://github.com/haibbo/cf-openai-azure-proxy) - A Cloudflare worker script to proxy OpenAI‘s request to Azure OpenAI Service
-* [yomorun/yomo](https://github.com/yomorun/yomo) - 🦖 Stateful Serverless Framework for Geo-distributed Edge AI Infra. with function calling support, write once, run on any model.
+* [ttengwang/Caption-Anything](https://github.com/ttengwang/Caption-Anything) - Caption-Anything is a versatile tool combining image segmentation, visual captioning, and ChatGPT, generating tailored captions with diverse controls for user preferences. https://huggingface.co/spaces/TencentARC/Caption-Anything https://huggingface.co/spaces/VIPLab/Caption-Anything
 * [mufeedvh/code2prompt](https://github.com/mufeedvh/code2prompt) - A CLI tool to convert your codebase into a single LLM prompt with source tree, prompt templating, and token counting.
+* [yomorun/yomo](https://github.com/yomorun/yomo) - 🦖 Stateful Serverless Framework for Geo-distributed Edge AI Infra. with function calling support, write once, run on any model.
 * [bookfere/Ebook-Translator-Calibre-Plugin](https://github.com/bookfere/Ebook-Translator-Calibre-Plugin) - A Calibre plugin to translate ebook into a specified language.
 * [roboflow/awesome-openai-vision-api-experiments](https://github.com/roboflow/awesome-openai-vision-api-experiments) - Must-have resource for anyone who wants to experiment with and build on the OpenAI vision API 🔥
 * [adamrushy/OpenAISwift](https://github.com/adamrushy/OpenAISwift) - This is a wrapper library around the ChatGPT and OpenAI HTTP API
 * [chatgpt-web-dev/chatgpt-web](https://github.com/chatgpt-web-dev/chatgpt-web) - A third-party ChatGPT Web UI page built with Express and Vue3, through the official OpenAI completion API. / 用 Express 和 Vue3 搭建的第三方 ChatGPT 前端页面, 基于 OpenAI 官方 completion API.
+* [atfortes/Awesome-LLM-Reasoning](https://github.com/atfortes/Awesome-LLM-Reasoning) - Reasoning in Large Language Models: Papers and Resources, including Chain-of-Thought and OpenAI o1 🍓
 * [n4ze3m/dialoqbase](https://github.com/n4ze3m/dialoqbase) - Create chatbots with ease
 * [yakGPT/yakGPT](https://github.com/yakGPT/yakGPT) - Locally running, hands-free ChatGPT UI
 * [gnehs/subtitle-translator-electron](https://github.com/gnehs/subtitle-translator-electron) - ↔️ Translate subtitle using ChatGPT
-* [atfortes/Awesome-LLM-Reasoning](https://github.com/atfortes/Awesome-LLM-Reasoning) - Reasoning in Large Language Models: Papers and Resources, including Chain-of-Thought and OpenAI o1 🍓
 * [microsoft/sample-app-aoai-chatGPT](https://github.com/microsoft/sample-app-aoai-chatGPT) - Sample code for a simple web chat experience through Azure OpenAI, including Azure OpenAI On Your Data.
 * [supabase-community/nextjs-openai-doc-search](https://github.com/supabase-community/nextjs-openai-doc-search) - Template for building your own custom ChatGPT style doc search powered by Next.js, OpenAI, and Supabase.
-* [RomanHotsiy/commitgpt](https://github.com/RomanHotsiy/commitgpt) - Automatically generate commit messages using ChatGPT
 * [Helixform/CodeCursor](https://github.com/Helixform/CodeCursor) - An extension for using Cursor in Visual Studio Code.
+* [RomanHotsiy/commitgpt](https://github.com/RomanHotsiy/commitgpt) - Automatically generate commit messages using ChatGPT
 * [SamurAIGPT/Open-Custom-GPT](https://github.com/SamurAIGPT/Open-Custom-GPT) - Create Custom GPT and add/embed on your site using Assistants api
 * [THUDM/WebGLM](https://github.com/THUDM/WebGLM) - WebGLM: An Efficient Web-enhanced Question Answering System (KDD 2023)
-* [TheExplainthis/ChatGPT-Line-Bot](https://github.com/TheExplainthis/ChatGPT-Line-Bot) - This is a repository that allows you to integrate ChatGPT into Line.
 * [mylxsw/aidea-server](https://github.com/mylxsw/aidea-server) - AIdea 是一款支持 GPT  以及国产大语言模型通义千问、文心一言等，支持 Stable Diffusion 文生图、图生图、 SDXL1.0、超分辨率、图片上色的全能型 APP。
+* [TheExplainthis/ChatGPT-Line-Bot](https://github.com/TheExplainthis/ChatGPT-Line-Bot) - This is a repository that allows you to integrate ChatGPT into Line.
 * [mattzcarey/code-review-gpt](https://github.com/mattzcarey/code-review-gpt) - Code review powered by LLMs (OpenAI GPT4, Sonnet 3.5) & Embeddings ⚡️ Improve code quality and catch bugs before you break production 🚀 Lives in your Github/GitLab/Azure DevOps CI
 * [Hedlen/awesome-segment-anything](https://github.com/Hedlen/awesome-segment-anything) - Tracking and collecting papers/projects/others related to Segment Anything.
 * [WongSaang/chatgpt-ui](https://github.com/WongSaang/chatgpt-ui) - A ChatGPT web client that supports multiple users, multiple languages, and multiple database connections for persistent data storage. Provides Docker images and quick deployment scripts.
@@ -361,15 +361,15 @@ A curated list of awesome ChatGPT frameworks, libraries and software.
 * [nhaouari/obsidian-textgenerator-plugin](https://github.com/nhaouari/obsidian-textgenerator-plugin) - Text Generator is a versatile plugin for Obsidian that allows you to generate text content using various AI providers, including OpenAI, Anthropic, Google and local models.
 * [travistangvh/ChatGPT-Data-Science-Prompts](https://github.com/travistangvh/ChatGPT-Data-Science-Prompts) - A repository of 60 useful data science prompts for ChatGPT
 * [Anil-matcha/Awesome-GPT-Store](https://github.com/Anil-matcha/Awesome-GPT-Store) - Custom GPT Store - A collection of major GPTS available in public
-* [linweiyuan/go-chatgpt-api](https://github.com/linweiyuan/go-chatgpt-api) - 一个尝试绕过 Cloudflare 来使用 ChatGPT 接口的程序
 * [Frrrrrrrrank/auto_job__find__chatgpt__rpa](https://github.com/Frrrrrrrrank/auto_job__find__chatgpt__rpa) - This is a tool used to automatically generate a cover letter using chatgpt based on your resume and job description and send messages to bosses in China.
+* [linweiyuan/go-chatgpt-api](https://github.com/linweiyuan/go-chatgpt-api) - 一个尝试绕过 Cloudflare 来使用 ChatGPT 接口的程序
 * [aallam/openai-kotlin](https://github.com/aallam/openai-kotlin) - OpenAI API client for Kotlin with multiplatform and coroutines capabilities.
 * [OvidijusParsiunas/deep-chat](https://github.com/OvidijusParsiunas/deep-chat) - Fully customizable AI chatbot component for your website
 * [farizrahman4u/loopgpt](https://github.com/farizrahman4u/loopgpt) - Modular Auto-GPT Framework
 * [dongyubin/Free-AppleId-Serve](https://github.com/dongyubin/Free-AppleId-Serve) - 2024年9月更新🚀免费共享Shadowrocket（小火箭）账号,Quantumult X，圈x，stash，小火箭节点，🚀 免费订阅地址，🚀 免费节点，🚀 每天更新一次，共享节点，节点质量高可用，完全免费。免费clash订阅地址，免费翻墙，免费科学上网，免费梯子，免费ss/v2ray/trojan/clash节点，谷歌商店，翻墙梯子，Openai ChatGPT账号,代理,proxy代理科学上网,TG代理,电报代理,Telegram代理,免费共享苹果外区ID,clashx Pro客户端下载
 * [hyp1231/awesome-llm-powered-agent](https://github.com/hyp1231/awesome-llm-powered-agent) - Awesome things about LLM-powered agents. Papers / Repos / Blogs / ...
-* [bupticybee/ChineseAiDungeonChatGPT](https://github.com/bupticybee/ChineseAiDungeonChatGPT) - 中文版的ai地牢，直接使用的openai的ChatGPT api作为讲故事的模型。
 * [Anil-matcha/ChatPDF](https://github.com/Anil-matcha/ChatPDF) - Chat with any PDF. Easily upload the PDF documents you'd like to chat with. Instant answers. Ask questions, extract information, and summarize documents with AI. Sources included.
+* [bupticybee/ChineseAiDungeonChatGPT](https://github.com/bupticybee/ChineseAiDungeonChatGPT) - 中文版的ai地牢，直接使用的openai的ChatGPT api作为讲故事的模型。
 * [wieslawsoltes/ChatGPT](https://github.com/wieslawsoltes/ChatGPT) - A ChatGPT C# client for MacOS, Windows, Linux, Android, iOS and Browser. Powered by Avalonia UI framework.
 * [qxresearch/qxresearch-event-1](https://github.com/qxresearch/qxresearch-event-1) - Python hands on tutorial with 50+ Python Application (10 lines of code) By @xiaowuc2
 * [steedos/steedos-platform](https://github.com/steedos/steedos-platform) - 华炎魔方低代码平台 ｜ Steedos is an open-source alternative to Salesforce Low-Code Platform. 🤖 🎨 🚀
@@ -387,18 +387,18 @@ A curated list of awesome ChatGPT frameworks, libraries and software.
 * [miurla/babyagi-ui](https://github.com/miurla/babyagi-ui) - BabyAGI UI is designed to make it easier to run and develop with babyagi in a web app, like a ChatGPT.
 * [adrianhajdin/project_openai_codex](https://github.com/adrianhajdin/project_openai_codex) - Build and Deploy Your Own ChatGPT AI Application That Will Help You Code
 * [weijunext/smart-excel-ai](https://github.com/weijunext/smart-excel-ai) - Generate the Excel formulas you need in seconds using ChatGPT.
-* [ItsPi3141/alpaca-electron](https://github.com/ItsPi3141/alpaca-electron) - The simplest way to run Alpaca (and other LLaMA-based local LLMs) on your own computer
 * [Mobile-Artificial-Intelligence/maid](https://github.com/Mobile-Artificial-Intelligence/maid) - Maid is a cross-platform Flutter app for interfacing with GGUF / llama.cpp models locally, and with Ollama and OpenAI models remotely.
+* [jehna/humanify](https://github.com/jehna/humanify) - Deobfuscate Javascript code using ChatGPT
+* [ItsPi3141/alpaca-electron](https://github.com/ItsPi3141/alpaca-electron) - The simplest way to run Alpaca (and other LLaMA-based local LLMs) on your own computer
 * [nishiwen1214/ChatReviewer](https://github.com/nishiwen1214/ChatReviewer) - ChatReviewer: 使用ChatGPT分析论文优缺点，提出改进建议
 * [hiyouga/FastEdit](https://github.com/hiyouga/FastEdit) - 🩹Editing large language models within 10 seconds⚡
-* [jehna/humanify](https://github.com/jehna/humanify) - Deobfuscate Javascript code using ChatGPT
 * [pionxzh/chatgpt-exporter](https://github.com/pionxzh/chatgpt-exporter) - Export and Share your ChatGPT conversation history
-* [daveshap/ChatGPT_Custom_Instructions](https://github.com/daveshap/ChatGPT_Custom_Instructions) - Repo of custom instructions that you can use for ChatGPT
 * [karthink/gptel](https://github.com/karthink/gptel) - A simple LLM client for Emacs
+* [daveshap/ChatGPT_Custom_Instructions](https://github.com/daveshap/ChatGPT_Custom_Instructions) - Repo of custom instructions that you can use for ChatGPT
 * [Hello-SimpleAI/chatgpt-comparison-detection](https://github.com/Hello-SimpleAI/chatgpt-comparison-detection) - Human ChatGPT Comparison Corpus (HC3), Detectors, and more! 🔥
 * [jtsang4/claude-to-chatgpt](https://github.com/jtsang4/claude-to-chatgpt) - This project converts the API of Anthropic's Claude model to the OpenAI Chat API format.
-* [taranjeet/awesome-gpts](https://github.com/taranjeet/awesome-gpts) - Collection of all the GPTs created by the community
 * [B3o/GPTS-Prompt-Collection](https://github.com/B3o/GPTS-Prompt-Collection) - 收集GPTS的prompt  /   Collect the prompt of GPTS
+* [taranjeet/awesome-gpts](https://github.com/taranjeet/awesome-gpts) - Collection of all the GPTs created by the community
 * [gotzmann/llama.go](https://github.com/gotzmann/llama.go) - llama.go is like llama.cpp in pure Golang!
 * [irgolic/AutoPR](https://github.com/irgolic/AutoPR) - Run AI-powered workflows over your codebase
 * [anc95/writely](https://github.com/anc95/writely) - ❤️‍🔥 A chrome extension as an alternative to Notion AI that goes beyond Notion AI. | 一个替代 Notion AI 的浏览器插件，不止于 Notion AI
@@ -410,21 +410,21 @@ A curated list of awesome ChatGPT frameworks, libraries and software.
 * [appleboy/CodeGPT](https://github.com/appleboy/CodeGPT) - A CLI written in Go language that writes git commit messages or do a code review brief for you using ChatGPT AI (gpt-4o, gpt-4-turbo, gpt-3.5-turbo model) and automatically installs a git prepare-commit-msg hook.
 * [visual-openllm/visual-openllm](https://github.com/visual-openllm/visual-openllm) - something like visual-chatgpt, 文心一言的开源版
 * [juncongmoo/chatllama](https://github.com/juncongmoo/chatllama) - ChatLLaMA 📢 Open source implementation for LLaMA-based ChatGPT runnable in a single GPU. 15x faster training process than ChatGPT
+* [popjane/free_chatgpt_api](https://github.com/popjane/free_chatgpt_api) - 🔥 公益免费的ChatGPT API，Free ChatGPT API，GPT4 API，可直连，无需代理，使用标准 OpenAI APIKEY 格式访问 ChatGPT，可搭配ChatGPT-next-web、ChatGPT-Midjourney、Lobe-chat、Botgem、FastGPT、沉浸式翻译等项目使用
 * [goldfishh/chatgpt-tool-hub](https://github.com/goldfishh/chatgpt-tool-hub) - An open-source chatgpt tool ecosystem where you can combine tools with chatgpt and use natural language to do anything.
 * [ykdojo/kaguya](https://github.com/ykdojo/kaguya) - A ChatGPT plugin that allows you to load and edit your local files in a controlled way, as well as run any Python, JavaScript, and bash script.
-* [popjane/free_chatgpt_api](https://github.com/popjane/free_chatgpt_api) - 🔥 公益免费的ChatGPT API，Free ChatGPT API，GPT4 API，可直连，无需代理，使用标准 OpenAI APIKEY 格式访问 ChatGPT，可搭配ChatGPT-next-web、ChatGPT-Midjourney、Lobe-chat、Botgem、FastGPT、沉浸式翻译等项目使用
 * [PandaBearLab/prompt-tutorial](https://github.com/PandaBearLab/prompt-tutorial) - chatGPT、prompt、LLM
 * [jiran214/GPT-vup](https://github.com/jiran214/GPT-vup) - GPT-vup BIliBili | 抖音 | AI | 虚拟主播
 * [gaboolic/vercel-reverse-proxy](https://github.com/gaboolic/vercel-reverse-proxy) - vercel反向代理|OpenAI/ChatGPT 免翻墙代理|github免翻墙代理|github下载加速|google代理|vercel万能代理
-* [timqian/openprompt.co](https://github.com/timqian/openprompt.co) - Create. Use. Share. ChatGPT prompts
 * [ai-genie/chatgpt-vscode](https://github.com/ai-genie/chatgpt-vscode) - Your best AI pair programmer in VS Code
+* [timqian/openprompt.co](https://github.com/timqian/openprompt.co) - Create. Use. Share. ChatGPT prompts
 * [lich0821/WeChatRobot](https://github.com/lich0821/WeChatRobot) - 微信机器人，接入Gemini、ChatGPT、ChatGLM、讯飞星火、Tigerbot；成语接龙、天气预报、新闻摘要、定时任务。
 * [mbzuai-oryx/Video-ChatGPT](https://github.com/mbzuai-oryx/Video-ChatGPT) - [ACL 2024 🔥] Video-ChatGPT is a video conversation model capable of generating meaningful conversation about videos. It combines the capabilities of LLMs with a pretrained visual encoder adapted for spatiotemporal video representation. We also introduce a rigorous 'Quantitative Evaluation Benchmarking' for video-based conversational models.
-* [evalplus/evalplus](https://github.com/evalplus/evalplus) - Rigourous evaluation of LLM-synthesized code - NeurIPS 2023
 * [shadowcz007/comfyui-mixlab-nodes](https://github.com/shadowcz007/comfyui-mixlab-nodes) - Workflow-to-APP、ScreenShare&FloatingVideo、GPT & 3D、SpeechRecognition&TTS
+* [evalplus/evalplus](https://github.com/evalplus/evalplus) - Rigourous evaluation of LLM-synthesized code - NeurIPS 2023
 * [protectai/llm-guard](https://github.com/protectai/llm-guard) - The Security Toolkit for LLM Interactions
-* [abhagsain/ai-cli](https://github.com/abhagsain/ai-cli) - Get answers for CLI commands from ChatGPT right from your terminal
 * [kyegomez/swarms](https://github.com/kyegomez/swarms) - The Enterprise-Grade Production-Ready Multi-Agent Orchestration Framework Join our Community: https://discord.com/servers/agora-999382051935506503
+* [abhagsain/ai-cli](https://github.com/abhagsain/ai-cli) - Get answers for CLI commands from ChatGPT right from your terminal
 * [cubxxw/awesome-cs-cloudnative-blockchain](https://github.com/cubxxw/awesome-cs-cloudnative-blockchain) - 📚 菜鸟成长手册🚀  CS系列 、云原生系列、区块链系列、web3系列🔥、Golang系列💡......
 * [RafalWilinski/telegram-chatgpt-concierge-bot](https://github.com/RafalWilinski/telegram-chatgpt-concierge-bot) - Interact with OpenAI's ChatGPT via Telegram and Voice.
 * [ConnectAI-E/Awesome-One-Click-Deployment](https://github.com/ConnectAI-E/Awesome-One-Click-Deployment) - 🪄 One-click deployment of many github open source projects to facilitate fast experience 一键部署各种Github开源AI项目
@@ -435,32 +435,32 @@ A curated list of awesome ChatGPT frameworks, libraries and software.
 * [nlkitai/nlux](https://github.com/nlkitai/nlux) - The 𝗣𝗼𝘄𝗲𝗿𝗳𝘂𝗹 Conversational AI JavaScript Library 💬 — UI for any LLM, supporting LangChain / HuggingFace / Vercel AI, and more 🧡 React, Next.js, and plain JavaScript ⭐️
 * [microsoft/HydraLab](https://github.com/microsoft/HydraLab) - Intelligent cloud testing made easy.
 * [wikieden/Awesome-ChatGPT-Prompts-CN](https://github.com/wikieden/Awesome-ChatGPT-Prompts-CN) - ChatGPT调教指南|咒语指南|聊天提示词指南|学习指南
+* [curiousily/Get-Things-Done-with-Prompt-Engineering-and-LangChain](https://github.com/curiousily/Get-Things-Done-with-Prompt-Engineering-and-LangChain) - LangChain & Prompt Engineering tutorials on Large Language Models (LLMs) such as ChatGPT with custom data. Jupyter notebooks on loading and indexing data, creating prompt templates, CSV agents, and using retrieval QA chains to query the custom data. Projects for using a private LLM (Llama 2) for chat with PDF files, tweets sentiment analysis.
 * [lupantech/chameleon-llm](https://github.com/lupantech/chameleon-llm) - Codes for "Chameleon: Plug-and-Play Compositional Reasoning with Large Language Models".
 * [AI-Prompt-Genius/AI-Prompt-Genius](https://github.com/AI-Prompt-Genius/AI-Prompt-Genius) - Curate a custom library of AI Prompts
-* [curiousily/Get-Things-Done-with-Prompt-Engineering-and-LangChain](https://github.com/curiousily/Get-Things-Done-with-Prompt-Engineering-and-LangChain) - LangChain & Prompt Engineering tutorials on Large Language Models (LLMs) such as ChatGPT with custom data. Jupyter notebooks on loading and indexing data, creating prompt templates, CSV agents, and using retrieval QA chains to query the custom data. Projects for using a private LLM (Llama 2) for chat with PDF files, tweets sentiment analysis.
-* [Guru322/GURU-Ai](https://github.com/Guru322/GURU-Ai) - SIMPLE YET COMPLICATED 🚩
 * [KwaiKEG/KwaiAgents](https://github.com/KwaiKEG/KwaiAgents) - A generalized information-seeking agent system with Large Language Models (LLMs).
-* [yaodongC/awesome-instruction-dataset](https://github.com/yaodongC/awesome-instruction-dataset) - A collection of open-source dataset to train instruction-following LLMs (ChatGPT,LLaMA,Alpaca)
-* [cedrickchee/awesome-transformer-nlp](https://github.com/cedrickchee/awesome-transformer-nlp) - A curated list of NLP resources focused on Transformer networks, attention mechanism, GPT, BERT, ChatGPT, LLMs, and transfer learning.
-* [PickleBoxer/dev-chatgpt-prompts](https://github.com/PickleBoxer/dev-chatgpt-prompts) - 📚 Personal collection of ChatGPT prompts for developers!
-* [davidADSP/Generative_Deep_Learning_2nd_Edition](https://github.com/davidADSP/Generative_Deep_Learning_2nd_Edition) - The official code repository for the second edition of the O'Reilly book Generative Deep Learning: Teaching Machines to Paint, Write, Compose and Play.
+* [Guru322/GURU-Ai](https://github.com/Guru322/GURU-Ai) - SIMPLE YET COMPLICATED 🚩
 * [open-compass/VLMEvalKit](https://github.com/open-compass/VLMEvalKit) - Open-source evaluation toolkit of large vision-language models (LVLMs), support ~100 VLMs, 40+ benchmarks
+* [PickleBoxer/dev-chatgpt-prompts](https://github.com/PickleBoxer/dev-chatgpt-prompts) - 📚 Personal collection of ChatGPT prompts for developers!
+* [yaodongC/awesome-instruction-dataset](https://github.com/yaodongC/awesome-instruction-dataset) - A collection of open-source dataset to train instruction-following LLMs (ChatGPT,LLaMA,Alpaca)
+* [davidADSP/Generative_Deep_Learning_2nd_Edition](https://github.com/davidADSP/Generative_Deep_Learning_2nd_Edition) - The official code repository for the second edition of the O'Reilly book Generative Deep Learning: Teaching Machines to Paint, Write, Compose and Play.
+* [cedrickchee/awesome-transformer-nlp](https://github.com/cedrickchee/awesome-transformer-nlp) - A curated list of NLP resources focused on Transformer networks, attention mechanism, GPT, BERT, ChatGPT, LLMs, and transfer learning.
 * [EmbraceAGI/Awesome-AI-GPTs](https://github.com/EmbraceAGI/Awesome-AI-GPTs) - Awesome AI GPTs, OpenAI GPTs, GPT-4, ChatGPT, GPTs, Prompts, plugins, Prompts leaking
-* [terobox/ChatGPT-API-Faucet](https://github.com/terobox/ChatGPT-API-Faucet) - AI 圈的水龙头网站，每24小时可领取一个令牌用于开发测试 AI 产品
+* [CyberAlbSecOP/Awesome_GPT_Super_Prompting](https://github.com/CyberAlbSecOP/Awesome_GPT_Super_Prompting) - ChatGPT Jailbreaks, GPT Assistants Prompt Leaks, GPTs Prompt Injection, LLM Prompt Security, Super Prompts, Prompt Hack, Prompt Security, Ai Prompt Engineering, Adversarial Machine Learning.
 * [langgptai/awesome-claude-prompts](https://github.com/langgptai/awesome-claude-prompts) - This repo includes Claude prompt curation to use Claude better.
+* [terobox/ChatGPT-API-Faucet](https://github.com/terobox/ChatGPT-API-Faucet) - AI 圈的水龙头网站，每24小时可领取一个令牌用于开发测试 AI 产品
 * [p0n1/epub_to_audiobook](https://github.com/p0n1/epub_to_audiobook) - EPUB to audiobook converter, optimized for Audiobookshelf
 * [MartialBE/one-hub](https://github.com/MartialBE/one-hub) - OpenAI 接口管理 & 分发系统，改自songquanpeng/one-api。支持更多模型，加入统计页面，完善非openai模型的函数调用。
 * [teddylee777/langchain-kr](https://github.com/teddylee777/langchain-kr) - LangChain 공식 Document, Cookbook, 그 밖의 실용 예제를 바탕으로 작성한 한국어 튜토리얼입니다. 본 튜토리얼을 통해 LangChain을 더 쉽고 효과적으로 사용하는 방법을 배울 수 있습니다.
 * [obiscr/ChatGPT](https://github.com/obiscr/ChatGPT) - This project is a plugin that supports ChatGPT running on JetBrains series IDE.
 * [sozercan/kubectl-ai](https://github.com/sozercan/kubectl-ai) - ✨ Kubectl plugin to create manifests with LLMs
 * [lxfater/Awesome-GPTs](https://github.com/lxfater/Awesome-GPTs) - 1000+ GPTs and 10 categories. 80+ Leaked Prompt，Awesome，chatgpt，Ai，prompt
-* [CyberAlbSecOP/Awesome_GPT_Super_Prompting](https://github.com/CyberAlbSecOP/Awesome_GPT_Super_Prompting) - ChatGPT Jailbreaks, GPT Assistants Prompt Leaks, GPTs Prompt Injection, LLM Prompt Security, Super Prompts, Prompt Hack, Prompt Security, Ai Prompt Engineering, Adversarial Machine Learning.
 * [jucasoliveira/terminalGPT](https://github.com/jucasoliveira/terminalGPT) - Get GPT like chatGPT on your terminal
 * [ikechan8370/chatgpt-plugin](https://github.com/ikechan8370/chatgpt-plugin) - 云崽系机器人的智能聊天插件
 * [SkalskiP/awesome-chatgpt-code-interpreter-experiments](https://github.com/SkalskiP/awesome-chatgpt-code-interpreter-experiments) - Awesome things you can do with ChatGPT + Code Interpreter combo 🔥
 * [formulahendry/awesome-gpt](https://github.com/formulahendry/awesome-gpt) - A curated list of awesome projects and resources related to GPT, ChatGPT, OpenAI, LLM, and more.
-* [xcfcode/Summarization-Papers](https://github.com/xcfcode/Summarization-Papers) - Summarization Papers
 * [K-Render/best-chinese-prompt](https://github.com/K-Render/best-chinese-prompt) - AI中文提示词秘籍ChatGPT中文提示词秘籍（Prompt圣经）K-Render整理
+* [xcfcode/Summarization-Papers](https://github.com/xcfcode/Summarization-Papers) - Summarization Papers
 * [xqdoo00o/chatgpt-web](https://github.com/xqdoo00o/chatgpt-web) - Pure Javascript ChatGPT demo based on OpenAI API
 * [ORDINAND/The-Art-of-Asking-ChatGPT-for-High-Quality-Answers-A-complete-Guide-to-Prompt-Engineering-Technique](https://github.com/ORDINAND/The-Art-of-Asking-ChatGPT-for-High-Quality-Answers-A-complete-Guide-to-Prompt-Engineering-Technique) - ChatGPT提问技巧
 * [snwfdhmp/awesome-gpt-prompt-engineering](https://github.com/snwfdhmp/awesome-gpt-prompt-engineering) - A curated list of awesome resources, tools, and other shiny things for GPT prompt engineering.
@@ -471,17 +471,18 @@ A curated list of awesome ChatGPT frameworks, libraries and software.
 * [hollobit/GenAI_LLM_timeline](https://github.com/hollobit/GenAI_LLM_timeline) - ChatGPT, GenerativeAI and LLMs Timeline
 * [gannonh/chatgpt-pgvector](https://github.com/gannonh/chatgpt-pgvector) - ChatGTP (gpt3.5-turbo) starter app
 * [Torantulino/AI-Functions](https://github.com/Torantulino/AI-Functions) - AI-Powered Function Magic: Never code again with GPT models!
-* [dillionverma/llm.report](https://github.com/dillionverma/llm.report) - 📊 llm.report is an open-source logging and analytics platform for OpenAI: Log your ChatGPT API requests, analyze costs, and improve your prompts.
 * [xianshang33/llm-paper-daily](https://github.com/xianshang33/llm-paper-daily) - Daily updated LLM papers.        每日更新 LLM 相关的论文，欢迎订阅 👏   喜欢的话动动你的小手 🌟 一个
-* [shibing624/textgen](https://github.com/shibing624/textgen) - TextGen: Implementation of Text Generation models, include LLaMA, BLOOM, GPT2, BART, T5, SongNet and so on. 文本生成模型，实现了包括LLaMA，ChatGLM，BLOOM，GPT2，Seq2Seq，BART，T5，UDA等模型的训练和预测，开箱即用。
+* [dillionverma/llm.report](https://github.com/dillionverma/llm.report) - 📊 llm.report is an open-source logging and analytics platform for OpenAI: Log your ChatGPT API requests, analyze costs, and improve your prompts.
 * [37MobileTeam/iChatGPT](https://github.com/37MobileTeam/iChatGPT) - OpenAI ChatGPT SwiftUI app for iOS, iPadOS, macOS
+* [shibing624/textgen](https://github.com/shibing624/textgen) - TextGen: Implementation of Text Generation models, include LLaMA, BLOOM, GPT2, BART, T5, SongNet and so on. 文本生成模型，实现了包括LLaMA，ChatGLM，BLOOM，GPT2，Seq2Seq，BART，T5，UDA等模型的训练和预测，开箱即用。
 * [robusta-dev/kubernetes-chatgpt-bot](https://github.com/robusta-dev/kubernetes-chatgpt-bot) - A ChatGPT bot for Kubernetes issues.
 * [airuikun/smart-ide](https://github.com/airuikun/smart-ide) - 在vscode插件中结合chatgpt能力，实现智能研发提效
+* [1234567Yang/cf-proxy-ex](https://github.com/1234567Yang/cf-proxy-ex) - Cloudflare超级代理，无服务器代理，Duckduckgo代理（可用AI聊天，包含GPT4o/Calude3），OpenAI/ChatGPT代理，Github加速，在线代理。Cloudflare super proxy, setting up a free serverless proxy by using Cloudflare worker.
+* [webwhiz-ai/webwhiz](https://github.com/webwhiz-ai/webwhiz) - WebWhiz allows you to create an AI chatbot that knows everything about your product and can instantly respond to your customer's queries.
 * [bclswl0827/ChatGemini](https://github.com/bclswl0827/ChatGemini) - ✨ ChatGemini 是一个基于 Google Gemini 的网页客户端，对标 ChatGPT 3.5，操作逻辑同 ChatGPT 3.5 一致，同时支持在聊天中上传图片，应用会自动调用 Gemini-Pro-Vision 模型进行识图。
 * [xiaolai/most-common-american-idioms](https://github.com/xiaolai/most-common-american-idioms) - A book created by xiaolai with the help of ChatGPT and its TTS
-* [webwhiz-ai/webwhiz](https://github.com/webwhiz-ai/webwhiz) - WebWhiz allows you to create an AI chatbot that knows everything about your product and can instantly respond to your customer's queries.
+* [yamadashy/repopack](https://github.com/yamadashy/repopack) - 📦 Repopack is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like Claude, ChatGPT, and Gemini.
 * [llSourcell/ChatGPT_Trading_Bot](https://github.com/llSourcell/ChatGPT_Trading_Bot) - This is the code for the "ChatGPT Trading Bot" Video by Siraj Raval on Youtube
-* [1234567Yang/cf-proxy-ex](https://github.com/1234567Yang/cf-proxy-ex) - Cloudflare超级代理，无服务器代理，Duckduckgo代理（可用AI聊天，包含GPT4o/Calude3），OpenAI/ChatGPT代理，Github加速，在线代理。Cloudflare super proxy, setting up a free serverless proxy by using Cloudflare worker.
 * [ferrislucas/promptr](https://github.com/ferrislucas/promptr) - Promptr is a CLI tool that lets you use plain English to instruct GPT3 or GPT4 to make changes to your codebase.
 * [tg12/gpt_jailbreak_status](https://github.com/tg12/gpt_jailbreak_status) - This is a repository that aims to provide updates on the status of jailbreaking the OpenAI GPT language model.
 * [pgosar/ChatGDB](https://github.com/pgosar/ChatGDB) - Harness the power of ChatGPT inside the GDB or LLDB debugger!
@@ -502,101 +503,100 @@ A curated list of awesome ChatGPT frameworks, libraries and software.
 * [snowby666/poe-api-wrapper](https://github.com/snowby666/poe-api-wrapper) - 👾 A Python API wrapper for Poe.com. With this, you will have free access to GPT-4, Claude, Llama, Gemini, Mistral and more! 🚀
 * [thu-coai/Safety-Prompts](https://github.com/thu-coai/Safety-Prompts) - Chinese safety prompts for evaluating and improving the safety of LLMs. 中文安全prompts，用于评估和提升大模型的安全性。
 * [Azure/GPT-RAG](https://github.com/Azure/GPT-RAG) - Sharing the learning along the way we been gathering to enable Azure OpenAI at enterprise scale in a secure manner. GPT-RAG core is a Retrieval-Augmented Generation pattern running in Azure, using Azure Cognitive Search for retrieval and Azure OpenAI large language models to power ChatGPT-style and Q&A experiences.
-* [yamadashy/repopack](https://github.com/yamadashy/repopack) - 📦 Repopack is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like Claude, ChatGPT, and Gemini.
 * [akshata29/entaoai](https://github.com/akshata29/entaoai) - Chat and Ask on your own data.  Accelerator to quickly upload your own enterprise data and use OpenAI services to chat to that uploaded data and ask questions
 * [yonggekkk/Replit-Xray](https://github.com/yonggekkk/Replit-Xray) - Replit容器部署xray代理，支持argo固定隧道与临时隧道，自定义伪装网页，一键五协议共存，支持搭建vless、vmess、trojan、shadowsocks、socks5
 * [liyupi/yu-auto-reply](https://github.com/liyupi/yu-auto-reply) - AI 自动回复工具，支持灵活配置多个平台的监控和回答。目前已支持知识星球自动回复、OpenAI（ChatGPT）自动回答
-* [waylaidwanderer/PandoraAI](https://github.com/waylaidwanderer/PandoraAI) - PandoraAI is a web chat client powered by node-chatgpt-api, allowing users to easily chat with multiple AI systems while also offering support for custom presets. With its seamless and convenient design, PandoraAI provides an engaging conversational AI experience.
 * [GauravSingh9356/J.A.R.V.I.S](https://github.com/GauravSingh9356/J.A.R.V.I.S) - Personal Assistant built using python libraries. It does almost anything which includes sending emails, Optical Text Recognition, Dynamic News Reporting at any time with API integration, Todo list generator, Opens any website with just a voice command, Plays Music, Wikipedia searching, Dictionary with Intelligent Sensing i.e. auto spell checking, Weather Reporting i.e. temp, wind speed, humidity, YouTube searching, Google Map searching, Youtube Downloading, etc.
+* [waylaidwanderer/PandoraAI](https://github.com/waylaidwanderer/PandoraAI) - PandoraAI is a web chat client powered by node-chatgpt-api, allowing users to easily chat with multiple AI systems while also offering support for custom presets. With its seamless and convenient design, PandoraAI provides an engaging conversational AI experience.
 * [PlexPt/chatgpt-corpus](https://github.com/PlexPt/chatgpt-corpus) - ChatGPT 中文语料库 对话语料 小说语料 客服语料 用于训练大模型
 * [awesome-assistants/awesome-assistants](https://github.com/awesome-assistants/awesome-assistants) - A curated list of awesome AI assistants. Example Telegram bot with all these assistants can be tested on the link below.
 * [vastxie/Happy-ChatGPT](https://github.com/vastxie/Happy-ChatGPT) - ChatGPT 国粹版，和 GPT 一起学习地道的中国话吧
+* [nianhua99/PandoraHelper](https://github.com/nianhua99/PandoraHelper) - 使用 PandoraHelper 轻松和你的小伙伴共享 ChatGPT Plus/Claude Pro 服务！
 * [1zilc/fishing-funds](https://github.com/1zilc/fishing-funds) - 基金,大盘,股票,虚拟货币状态栏显示小应用,基于Electron开发,支持MacOS,Windows,Linux客户端,数据源来自天天基金,蚂蚁基金,爱基金,腾讯证券等
+* [juzeon/SydneyQt](https://github.com/juzeon/SydneyQt) - A cross-platform desktop client for the jailbroken New Bing AI Copilot (Sydney ver.) built with Go and Wails (previously based on Python and Qt).
 * [stack-chan/stack-chan](https://github.com/stack-chan/stack-chan) - A JavaScript-driven M5Stack-embedded super-kawaii robot.
 * [NeumTry/NeumAI](https://github.com/NeumTry/NeumAI) - Neum AI is a best-in-class framework to manage the creation and synchronization of vector embeddings at large scale.
-* [juzeon/SydneyQt](https://github.com/juzeon/SydneyQt) - A cross-platform desktop client for the jailbroken New Bing AI Copilot (Sydney ver.) built with Go and Wails (previously based on Python and Qt).
 * [chapyter/chapyter](https://github.com/chapyter/chapyter) - Chapyter: ChatGPT Code Interpreter in Jupyter Notebooks
-* [chain-ml/council](https://github.com/chain-ml/council) - Council is an open-source platform for the rapid development and robust deployment of customized generative AI applications
-* [yokoffing/ChatGPT-Prompts](https://github.com/yokoffing/ChatGPT-Prompts) - ChatGPT and Bing AI prompt curation
 * [topoteretes/cognee](https://github.com/topoteretes/cognee) - Reliable LLM Memory for AI Applications and AI Agents
+* [chain-ml/council](https://github.com/chain-ml/council) - Council is an open-source platform for the rapid development and robust deployment of customized generative AI applications
+* [clidey/whodb](https://github.com/clidey/whodb) - A lightweight next-gen data explorer - Postgres, MySQL, SQLite, MongoDB, Redis, MariaDB & Elastic Search with Chat interface
+* [yokoffing/ChatGPT-Prompts](https://github.com/yokoffing/ChatGPT-Prompts) - ChatGPT and Bing AI prompt curation
 * [cjyaddone/ChatWaifu](https://github.com/cjyaddone/ChatWaifu) - Combined ChatGPT with Moegoe TTS to create a Chatting Waifu
 * [GAIR-NLP/factool](https://github.com/GAIR-NLP/factool) - FacTool: Factuality Detection in Generative AI
-* [clidey/whodb](https://github.com/clidey/whodb) - A lightweight next-gen data explorer - Postgres, MySQL, SQLite, MongoDB, Redis, MariaDB & Elastic Search with Chat interface
 * [xenodium/chatgpt-shell](https://github.com/xenodium/chatgpt-shell) - ChatGPT and DALL-E Emacs shells + Org babel 🦄 + a shell maker for other providers
 * [aircodelabs/documate](https://github.com/aircodelabs/documate) - Embed AI chat dialog into your doc site to answer user questions based on your own content.
-* [nianhua99/PandoraHelper](https://github.com/nianhua99/PandoraHelper) - 使用 PandoraHelper 轻松和你的小伙伴共享 ChatGPT Plus/Claude Pro 服务！
 * [Licoy/pic-gather](https://github.com/Licoy/pic-gather) - 🎨 Image collector, support for custom acquisition source, compatible with Windows and MacOS！| 图像采集器，支持自定义采集源，兼容Windows和MacOS！
 * [huangPengL/ChatGPT-Java-FunAi](https://github.com/huangPengL/ChatGPT-Java-FunAi) - ChatGPT Java 基于SpringBoot的后端开源web学习项目，FunAi。支持OpenAI官方所有接口。无限轮聊天 + 带上下文逻辑  + 流式输出 / 普通输出。PDF解析 + Embedding API+ 递归分词文段抽取 + 文本向量化 + 向量语义匹配 + 召回知识库相似文本匹配。接入文生图模型MidJourney / Stable Diffusion Model。智能客服/企业级知识库。APIKey额度精准查询 + 失效检测。AI游戏 + 专属于AI的社交平台
 * [kazuki-sf/YouTube_Summary_with_ChatGPT](https://github.com/kazuki-sf/YouTube_Summary_with_ChatGPT) - YouTube Summary with ChatGPT is a simple Chrome Extension (manifest v3) that allows you to get both YouTube video transcripts and summary of the video with OpenAI's ChatGPT AI technology.
 * [NoDataFound/hackGPT](https://github.com/NoDataFound/hackGPT) - I leverage OpenAI and ChatGPT to do hackerish things
 * [enkidevs/curriculum](https://github.com/enkidevs/curriculum) - 👩‍🏫 👨‍🏫 The open-source curriculum of Enki!
 * [pchunduri6/rag-demystified](https://github.com/pchunduri6/rag-demystified) - An LLM-powered advanced RAG pipeline built from scratch
-* [showlab/Image2Paragraph](https://github.com/showlab/Image2Paragraph) - [A toolbox for fun.] Transform Image into Unique Paragraph with ChatGPT, BLIP2, OFA, GRIT, Segment Anything, ControlNet.
-* [Denis2054/Transformers-for-NLP-2nd-Edition](https://github.com/Denis2054/Transformers-for-NLP-2nd-Edition) - Transformer models from BERT to GPT-4, environments from Hugging Face to OpenAI. Fine-tuning, training, and prompt engineering examples. A bonus section with ChatGPT, GPT-3.5-turbo, GPT-4, and DALL-E including jump starting GPT-4, speech-to-text, text-to-speech, text to image generation with DALL-E, Google Cloud AI,HuggingGPT, and more
-* [ObservedObserver/chatgpt-i18n](https://github.com/ObservedObserver/chatgpt-i18n) - Localize your websites with AI assistance.
-* [kx-Huang/ChatGPT-on-WeChat](https://github.com/kx-Huang/ChatGPT-on-WeChat) - 🤖️ Deploy GPT-4o ChatGPT on your WeChat within 2 steps! 两步在云端部署你的微信ChatGPT聊天机器人！🤖️
 * [Azure-Samples/chat-with-your-data-solution-accelerator](https://github.com/Azure-Samples/chat-with-your-data-solution-accelerator) - A Solution Accelerator for the RAG pattern running in Azure, using Azure AI Search for retrieval and Azure OpenAI large language models to power ChatGPT-style and Q&A experiences. This includes most common requirements and best practices.
+* [showlab/Image2Paragraph](https://github.com/showlab/Image2Paragraph) - [A toolbox for fun.] Transform Image into Unique Paragraph with ChatGPT, BLIP2, OFA, GRIT, Segment Anything, ControlNet.
+* [kx-Huang/ChatGPT-on-WeChat](https://github.com/kx-Huang/ChatGPT-on-WeChat) - 🤖️ Deploy GPT-4o ChatGPT on your WeChat within 2 steps! 两步在云端部署你的微信ChatGPT聊天机器人！🤖️
+* [ObservedObserver/chatgpt-i18n](https://github.com/ObservedObserver/chatgpt-i18n) - Localize your websites with AI assistance.
+* [Denis2054/Transformers-for-NLP-2nd-Edition](https://github.com/Denis2054/Transformers-for-NLP-2nd-Edition) - Transformer models from BERT to GPT-4, environments from Hugging Face to OpenAI. Fine-tuning, training, and prompt engineering examples. A bonus section with ChatGPT, GPT-3.5-turbo, GPT-4, and DALL-E including jump starting GPT-4, speech-to-text, text-to-speech, text to image generation with DALL-E, Google Cloud AI,HuggingGPT, and more
 * [cocacola-lab/ChatIE](https://github.com/cocacola-lab/ChatIE) - The online version is temporarily unavailable because we cannot afford the key. You can clone and run it locally. Note: we set defaul openai key. If keys exceed plan and are invalid, please tell us. The response speed depends on openai. ( sometimes, the official is too crowded and slow)
 * [acheong08/ChatGPT-API-server](https://github.com/acheong08/ChatGPT-API-server) - API server for ChatGPT
 * [mustvlad/ChatGPT-System-Prompts](https://github.com/mustvlad/ChatGPT-System-Prompts) - This repository contains a collection of the best system prompts for ChatGPT, a conversational AI model developed by OpenAI. Star this repository to help us reach 5,000 stars!
 * [antoinejaussoin/retro-board](https://github.com/antoinejaussoin/retro-board) - Agile Retrospective Board
+* [Robitx/gp.nvim](https://github.com/Robitx/gp.nvim) - Gp.nvim (GPT prompt) Neovim AI plugin: ChatGPT sessions & Instructable text/code operations & Speech to text [OpenAI, Ollama, Anthropic, ..]
 * [aschmelyun/subvert](https://github.com/aschmelyun/subvert) - Generate subtitles, summaries, and chapters from videos in seconds
 * [xcatliu/chatgpt-next](https://github.com/xcatliu/chatgpt-next) - 微信风格的 ChatGPT，使用 Next.js 构建，私有化部署的最佳选择！
-* [Robitx/gp.nvim](https://github.com/Robitx/gp.nvim) - Gp.nvim (GPT prompt) Neovim AI plugin: ChatGPT sessions & Instructable text/code operations & Speech to text [OpenAI, Ollama, Anthropic, ..]
 * [missuo/OpenAI-Checker](https://github.com/missuo/OpenAI-Checker) - Used to check if your IP can access OpenAI services.
 * [274056675/springboot-openai-chatgpt](https://github.com/274056675/springboot-openai-chatgpt) - 超级AI大脑一个基于SpringCloud微服务架构，已对接GPT-3.5、GPT-4.0、百度文心一言、stable diffusion AI绘图、Midjourney绘图等。支持web，Android，IOS，H5多端应用，使用了OpenAI的ChatGPT模型实现了智能聊天机器人。用户可以在界面上与聊天机器人进行对话，聊天机器人会根据用户的输入自动生成回复。同时也支持画图，用户输入文本，便可以自动制作文生文生图。持续更新中，更多功能等着你来解锁
 * [dpayne/CodeGPT.nvim](https://github.com/dpayne/CodeGPT.nvim) - CodeGPT is a plugin for neovim that provides commands to interact with ChatGPT.
-* [txsun1997/MOSS](https://github.com/txsun1997/MOSS) - MOSS is a conversational language model like ChatGPT.
 * [jianjianai/NewBingGoGo-Web](https://github.com/jianjianai/NewBingGoGo-Web) - 一个基于微软OpenAI ChatGPT GPT4的New Bing接口的Web服务。 提供了好看的对话页面。 实现了微软New Bing的大多数功能，还添加了一些自己的特色功能。 开源免费。
+* [txsun1997/MOSS](https://github.com/txsun1997/MOSS) - MOSS is a conversational language model like ChatGPT.
 * [1595901624/gpt-aggregated-edition](https://github.com/1595901624/gpt-aggregated-edition) - 聚合ChatGPT官方版、ChatGPT免费版、文心一言、Poe、chatchat等多平台，支持自定义导入平台
 * [dabit3/semantic-search-nextjs-pinecone-langchain-chatgpt](https://github.com/dabit3/semantic-search-nextjs-pinecone-langchain-chatgpt) - Embeds text files into vectors, stores them on Pinecone, and enables semantic search using GPT3 and Langchain in a Next.js UI
 * [transitive-bullshit/chatgpt-twitter-bot](https://github.com/transitive-bullshit/chatgpt-twitter-bot) - Twitter bot powered by OpenAI's ChatGPT API. It's aliveeeee 🤖
 * [Kamigami55/awesome-chatgpt](https://github.com/Kamigami55/awesome-chatgpt) - Curated list of ChatGPT related resource, tools, prompts, apps / ChatGPT 相關優質資源、工具、應用的精選清單。
+* [e2b-dev/awesome-ai-sdks](https://github.com/e2b-dev/awesome-ai-sdks) - A database of SDKs, frameworks, libraries, and tools for creating, monitoring, debugging and deploying autonomous AI agents
 * [talkingwallace/ChatGPT-Paper-Reader](https://github.com/talkingwallace/ChatGPT-Paper-Reader) - This repo offers a simple interface that helps you to read&summerize research papers in pdf format. You can ask some questions after reading. This interface is developed based on openai API and using GPT-3.5-turbo model.
 * [clmnin/summarize.site](https://github.com/clmnin/summarize.site) - Summarize web pages using OpenAI ChatGPT
-* [e2b-dev/awesome-ai-sdks](https://github.com/e2b-dev/awesome-ai-sdks) - A database of SDKs, frameworks, libraries, and tools for creating, monitoring, debugging and deploying autonomous AI agents
 * [j178/chatgpt](https://github.com/j178/chatgpt) - An elegant interactive CLI for ChatGPT
-* [KoushikNavuluri/Claude-API](https://github.com/KoushikNavuluri/Claude-API) - This project provides an unofficial API for Claude AI, allowing users to access and interact with Claude AI .
 * [a616567126/GPT-WEB-JAVA](https://github.com/a616567126/GPT-WEB-JAVA) - 基于JDK8 AI 聊天机器人！微信公众号 Midjourney画图、卡密兑换、web 支持ChatGPT、Midjourney画图、sd画图，卡密兑换，易支付，公众号引流，邮件注册🔥
+* [KoushikNavuluri/Claude-API](https://github.com/KoushikNavuluri/Claude-API) - This project provides an unofficial API for Claude AI, allowing users to access and interact with Claude AI .
 * [SkyWorkAIGC/SkyChat-Chinese-Chatbot-GPT3](https://github.com/SkyWorkAIGC/SkyChat-Chinese-Chatbot-GPT3) - SkyChat是一款基于中文GPT-3 api的聊天机器人项目。它可以像chatGPT一样，实现人机聊天、问答、中英文互译、对对联、写古诗等任务。| SkyChat is a Chatbot project based on Chinese GPT3 API. Like chatGPT, it can do human-machine chat, question and answer, and can also complete tasks such as Chinese-English or English-Chinese translation, content continuation, couplets, and Chinese ancient poems writing.
-* [victordibia/autogen-ui](https://github.com/victordibia/autogen-ui) - Web UI for AutoGen (A Framework Multi-Agent LLM Applications)
 * [6677-ai/tap4-ai-webui](https://github.com/6677-ai/tap4-ai-webui) - One-click to deploy your own ai tools directory with the open source web-ui
+* [victordibia/autogen-ui](https://github.com/victordibia/autogen-ui) - Web UI for AutoGen (A Framework Multi-Agent LLM Applications)
 * [win4r/AISuperDomain](https://github.com/win4r/AISuperDomain) - Aila(AI超元域): The premier AI integration tool for Windows, macOS, and Android. Ask once, get answers from 10+ AIs like ChatGPT, Gemini, Claude3, Copilot, Poe, perplexity and more. Features customizable AI and prompts.
 * [uezo/ChatdollKit](https://github.com/uezo/ChatdollKit) - ChatdollKit enables you to make your 3D model into a chatbot
 * [drl990114/MarkFlowy](https://github.com/drl990114/MarkFlowy) - Modern markdown editor application, Build fast and efficient workflows.
 * [wuchangming/chatgpt-query-engineer-handbook](https://github.com/wuchangming/chatgpt-query-engineer-handbook) - 🤖️ChatGPT提问工程师 -- 开发指南
-* [mic1on/chatGPT-web](https://github.com/mic1on/chatGPT-web) - chatGPT私有化部署
 * [Kuingsmile/word-GPT-Plus](https://github.com/Kuingsmile/word-GPT-Plus) - Word GPT Plus is a word add-in which integrates the chatGPT model into Microsoft Word. Both official and web api is supported.
-* [dylanshine/openai-kit](https://github.com/dylanshine/openai-kit) - A community Swift package used to interact with the OpenAI API
+* [mic1on/chatGPT-web](https://github.com/mic1on/chatGPT-web) - chatGPT私有化部署
 * [octimot/StoryToolkitAI](https://github.com/octimot/StoryToolkitAI) - An editing tool that uses AI to transcribe, understand content and search for anything in your footage,  integrated with ChatGPT and other AI models
+* [dylanshine/openai-kit](https://github.com/dylanshine/openai-kit) - A community Swift package used to interact with the OpenAI API
 * [voidful/awesome-chatgpt-dataset](https://github.com/voidful/awesome-chatgpt-dataset) - Unlock the Power of LLM: Explore These Datasets to Train Your Own ChatGPT!
 * [srcnalt/OpenAI-Unity](https://github.com/srcnalt/OpenAI-Unity) - An unofficial OpenAI Unity Package that aims to help you use OpenAI API directly in Unity Game engine.
-* [RageAgainstThePixel/OpenAI-DotNet](https://github.com/RageAgainstThePixel/OpenAI-DotNet) - A Non-Official OpenAI RESTful API Client for DotNet
 * [mohamed-chs/chatgpt-history-export-to-md](https://github.com/mohamed-chs/chatgpt-history-export-to-md) - A script to effortlessly extract your entire ChatGPT data export from JSON files to nicely-formatted markdown files.
 * [taranjeet/unofficial-chatgpt-api](https://github.com/taranjeet/unofficial-chatgpt-api) - This repo is unofficial ChatGPT api. It is based on Daniel Gross's WhatsApp GPT
+* [RageAgainstThePixel/OpenAI-DotNet](https://github.com/RageAgainstThePixel/OpenAI-DotNet) - A Non-Official OpenAI RESTful API Client for DotNet
 * [cloud804d/mirrors-pengzhile-pandora](https://github.com/cloud804d/mirrors-pengzhile-pandora) - 潘多拉，一个让你呼吸顺畅的ChatGPT。Pandora, a ChatGPT that helps you breathe smoothly.
 * [dqbd/tiktokenizer](https://github.com/dqbd/tiktokenizer) - Online playground for OpenAPI tokenizers
-* [madox2/vim-ai](https://github.com/madox2/vim-ai) - AI-powered code assistant for Vim. OpenAI and ChatGPT plugin for Vim and Neovim.
 * [beikeshop/beikeshop](https://github.com/beikeshop/beikeshop) - 🔥🔥🔥 Free open source and easy-to-use laravel eCommerce platform，BeikeShop基于Laravel 10 框架开发开源电商系统，多语言、多货币100%全开源，已集成ChatGPT OpenAI，支持自定义可视化装修并拥有丰富的插件市场。由成都光大网络科技开发维护 QQ交流群 639108380
+* [madox2/vim-ai](https://github.com/madox2/vim-ai) - AI-powered code assistant for Vim. OpenAI and ChatGPT plugin for Vim and Neovim.
+* [yym68686/ChatGPT-Telegram-Bot](https://github.com/yym68686/ChatGPT-Telegram-Bot) - TeleChat: 🤖️ an AI chat Telegram bot can Web Search Powered by GPT-3.5/4/4 Turbo/4o, DALL·E 3, Groq, Gemini 1.5 Pro/Flash and the official Claude2.1/3/3.5 API using Python on Zeabur, fly.io and Replit.
 * [polyrabbit/hacker-news-digest](https://github.com/polyrabbit/hacker-news-digest) - :newspaper: Let ChatGPT Summarize Hacker News for You
 * [kyegomez/LongNet](https://github.com/kyegomez/LongNet) - Implementation of plug in and play Attention from "LongNet: Scaling Transformers to 1,000,000,000 Tokens"
 * [DeepTecher/awesome-ChatGPT-resource-zh](https://github.com/DeepTecher/awesome-ChatGPT-resource-zh) - 精选 OpenAI 的 [ChatGPT](https://chat.openai.com) 资源清单, 跟随最新资源并添加中文相关Work
-* [logankilpatrick/ChatGPT-Plugins-Collection](https://github.com/logankilpatrick/ChatGPT-Plugins-Collection) - An unofficial collection of Plugins for ChatGPT, in any programming language!
 * [zukixa/cool-ai-stuff](https://github.com/zukixa/cool-ai-stuff) - This repository contains a list of free to use AI APIs and sites. We are NOT endorsing ANY of the listed services!
+* [logankilpatrick/ChatGPT-Plugins-Collection](https://github.com/logankilpatrick/ChatGPT-Plugins-Collection) - An unofficial collection of Plugins for ChatGPT, in any programming language!
 * [GaryYufei/AlignLLMHumanSurvey](https://github.com/GaryYufei/AlignLLMHumanSurvey) - Aligning Large Language Models with Human: A Survey
 * [bra1nDump/show-me-chatgpt-plugin](https://github.com/bra1nDump/show-me-chatgpt-plugin) - Create and edit diagrams in ChatGPT
 * [rksm/org-ai](https://github.com/rksm/org-ai) - Emacs as your personal AI assistant. Use LLMs such as ChatGPT or LLaMA for text generation or DALL-E and Stable Diffusion for image generation. Also supports speech input / output.
-* [yym68686/ChatGPT-Telegram-Bot](https://github.com/yym68686/ChatGPT-Telegram-Bot) - TeleChat: 🤖️ an AI chat Telegram bot can Web Search Powered by GPT-3.5/4/4 Turbo/4o, DALL·E 3, Groq, Gemini 1.5 Pro/Flash and the official Claude2.1/3/3.5 API using Python on Zeabur, fly.io and Replit.
 * [yaroslav-n/tweetGPT](https://github.com/yaroslav-n/tweetGPT) - Chrome extension that generates tweets and replies using chatGPT
+* [olimorris/codecompanion.nvim](https://github.com/olimorris/codecompanion.nvim) - ✨ AI-powered coding, seamlessly in Neovim. Supports Anthropic, Copilot, Gemini, Ollama and OpenAI LLMs
 * [cesarhuret/docGPT](https://github.com/cesarhuret/docGPT) - ChatGPT directly within Google Docs as an Editor Add-on 📑
 * [mayooear/langchain-supabase-website-chatbot](https://github.com/mayooear/langchain-supabase-website-chatbot) - Build a chatgpt chatbot for your website using LangChain, Supabase, Typescript, Openai, and Next.js.
 * [WeChatAPIs/WechatBotCMD](https://github.com/WeChatAPIs/WechatBotCMD) - 微信机器人WechatBotCMD是一个创新的基于Python 3.11开发的项目，通过结合ChatGPT模型和微信原生API，为用户提供智能聊天、自动绘画、自动发朋友圈、自动发视频号等多样的API集成服务，旨在提升日常沟通效率和趣味性。
-* [stoyan-stoyanov/llmflows](https://github.com/stoyan-stoyanov/llmflows) - LLMFlows - Simple, Explicit and Transparent LLM Apps
 * [xianyu110/awesome-chatgpt-project](https://github.com/xianyu110/awesome-chatgpt-project) - 1.chatGPT注册  2.chatGPT成品项目整理  3.高效使用chatGPT的小技巧   ↓演示网站
+* [stoyan-stoyanov/llmflows](https://github.com/stoyan-stoyanov/llmflows) - LLMFlows - Simple, Explicit and Transparent LLM Apps
 * [platelminto/chatgpt-conversation](https://github.com/platelminto/chatgpt-conversation) - Have a conversation with ChatGPT using your voice, and have it talk back.
 * [bitswired/rustgpt](https://github.com/bitswired/rustgpt) - RustGPT is a ChatGPT UI built with Rust + HTMX: the power of Rust coupled with the simplicity of HTMX 💚
 * [dave1010/tree-of-thought-prompting](https://github.com/dave1010/tree-of-thought-prompting) - Using Tree-of-Thought Prompting to boost ChatGPT's reasoning
-* [olimorris/codecompanion.nvim](https://github.com/olimorris/codecompanion.nvim) - ✨ AI-powered coding, seamlessly in Neovim. Supports Anthropic, Copilot, Gemini, Ollama and OpenAI LLMs
 * [SnapdragonLee/ChatGPT-weBot](https://github.com/SnapdragonLee/ChatGPT-weBot) - Chat with ChatGPT (gpt-3.5 or newer)，WeChat hook interface based
 * [prompt-engineering/chat-flow](https://github.com/prompt-engineering/chat-flow) -  ChatFlow  - AI-based chat flow framework, personalize your ChatGPT workflows and build the road to automation。ChatFlow —— 打造个性化 ChatGPT 流程，构建自动化之路
 * [openai-translator/bob-plugin-openai-polisher](https://github.com/openai-translator/bob-plugin-openai-polisher) - 使用 OpenAI API 给文本进行润色和语法纠错的 Bob 插件！完美代替 Grammarly！Licensed under CC BY-NC-SA 4.0
@@ -608,23 +608,23 @@ A curated list of awesome ChatGPT frameworks, libraries and software.
 * [alfianlosari/ChatGPTSwift](https://github.com/alfianlosari/ChatGPTSwift) - Access ChatGPT API using Swift
 * [ekkinox/yai](https://github.com/ekkinox/yai) - Your AI powered terminal assistant.
 * [EmbraceAGI/LifeReloaded](https://github.com/EmbraceAGI/LifeReloaded) - A life simulation Game powered by GPT-4's “Advanced Data Analysis” function , offering you a second chance at life.                  由GPT4的Advanced Data Analysis功能驱动的人生重来模拟器，给您人生第二春。
+* [vual/ChatGPT-Next-Web-Pro](https://github.com/vual/ChatGPT-Next-Web-Pro) - 基于chatgpt-next-web，增加了midjourney绘画功能，支持mj-plus的ai换脸和局部重绘，接入了stable-diffusion，支持oss，支持接入fastgpt知识库，支持suno，支持luma。支持dall-e-3、gpt-4-vision-preview、whisper、tts等多模态模型，支持gpt-4-all，支持GPTs商店。新增加了支持后台管理的版本，包括登录注册，平台模型apikey管理，套餐管理，消息保存等。
 * [josStorer/chatGPT-search-engine-extension](https://github.com/josStorer/chatGPT-search-engine-extension) - A browser extension to display ChatGPT response alongside Search Engine results
 * [diemus/azure-openai-proxy](https://github.com/diemus/azure-openai-proxy) - A proxy for Azure OpenAI API that can convert an OpenAI request into an Azure OpenAI request.
-* [vual/ChatGPT-Next-Web-Pro](https://github.com/vual/ChatGPT-Next-Web-Pro) - 基于chatgpt-next-web，增加了midjourney绘画功能，支持mj-plus的ai换脸和局部重绘，接入了stable-diffusion，支持oss，支持接入fastgpt知识库，支持suno，支持luma。支持dall-e-3、gpt-4-vision-preview、whisper、tts等多模态模型，支持gpt-4-all，支持GPTs商店。新增加了支持后台管理的版本，包括登录注册，平台模型apikey管理，套餐管理，消息保存等。
 * [click33/chatgpt---mirror-station-summary](https://github.com/click33/chatgpt---mirror-station-summary) - 汇总所有 chatgpt 镜像站，免费、付费、多模态、国内外大模型汇总等等 持续更新中……   个人能力有限，搜集到的不多，求大家多多贡献啊！众人拾柴火焰高！
 * [utkusen/promptmap](https://github.com/utkusen/promptmap) - automatically tests prompt injection attacks on ChatGPT instances
 * [Ryan-yang125/ChatLLM-Web](https://github.com/Ryan-yang125/ChatLLM-Web) - 🗣️ Chat with LLM like Vicuna totally in your browser with WebGPU, safely, privately, and with no server. Powered by web llm.
 * [vastxie/99AI](https://github.com/vastxie/99AI) - 99AI 稳定版：可商业化的 AI Web 应用（免授权，无后门，支持快速部署），以 ALL-IN-CHAT 为目标。已支持 AI 对话、绘图、音乐、视频功能，以及联网、思维导图等插件。
 * [henomis/lingoose](https://github.com/henomis/lingoose) - 🪿 LinGoose is a Go framework for building awesome AI/LLM applications.
-* [yqchilde/wxbot](https://github.com/yqchilde/wxbot) - ☝🏻 一个好玩的个人微信机器人程序(DaenDLL、VLW)，插件开发，查天气，ChatGPT聊天，设置定时任务，公众号监控转发...
-* [gotonote/Autopilot-Notes](https://github.com/gotonote/Autopilot-Notes) - 自动驾驶笔记，以解析各模块知识点、整合行业优秀解决方案进行阐述，以帮助自己及有需要的读者；包含深度学习、deeplearning、无人驾驶、BEV、Transformer、ADAS、CVPR、特斯拉AI DAY、大模型、chatgpt等内容.
-* [SSmJaE/WELearnHelper](https://github.com/SSmJaE/WELearnHelper) - 显示WE Learn随行课堂题目答案；支持班级测试；自动答题；刷时长；基于生成式AI(ChatGPT)的答案生成
-* [Azure-Samples/azure-search-openai-demo-csharp](https://github.com/Azure-Samples/azure-search-openai-demo-csharp) - A sample app for the Retrieval-Augmented Generation pattern running in Azure, using Azure Cognitive Search for retrieval and Azure OpenAI large language models to power ChatGPT-style and Q&A experiences.
-* [alfianlosari/ChatGPTSwiftUI](https://github.com/alfianlosari/ChatGPTSwiftUI) - A ChatGPT native iOS, macOS, watchOS, tvOS SwiftUI Application
-* [elastic/elasticsearch-labs](https://github.com/elastic/elasticsearch-labs) - Notebooks & Example Apps for Search & AI Applications with Elasticsearch
 * [abilzerian/LLM-Prompt-Library](https://github.com/abilzerian/LLM-Prompt-Library) - Advanced Code and Text Manipulation Prompts for Various LLMs. Suitable for Siri, GPT-4o, Claude, Llama3, Gemini, and other high-performance open-source LLMs.
-* [rubberduck-ai/rubberduck-vscode](https://github.com/rubberduck-ai/rubberduck-vscode) - Use AI-powered code edits, explanations, code generation, error diagnosis, and chat in Visual Studio Code with the official OpenAI API.
+* [yqchilde/wxbot](https://github.com/yqchilde/wxbot) - ☝🏻 一个好玩的个人微信机器人程序(DaenDLL、VLW)，插件开发，查天气，ChatGPT聊天，设置定时任务，公众号监控转发...
+* [alfianlosari/ChatGPTSwiftUI](https://github.com/alfianlosari/ChatGPTSwiftUI) - A ChatGPT native iOS, macOS, watchOS, tvOS SwiftUI Application
+* [SSmJaE/WELearnHelper](https://github.com/SSmJaE/WELearnHelper) - 显示WE Learn随行课堂题目答案；支持班级测试；自动答题；刷时长；基于生成式AI(ChatGPT)的答案生成
+* [gotonote/Autopilot-Notes](https://github.com/gotonote/Autopilot-Notes) - 自动驾驶笔记，以解析各模块知识点、整合行业优秀解决方案进行阐述，以帮助自己及有需要的读者；包含深度学习、deeplearning、无人驾驶、BEV、Transformer、ADAS、CVPR、特斯拉AI DAY、大模型、chatgpt等内容.
+* [Azure-Samples/azure-search-openai-demo-csharp](https://github.com/Azure-Samples/azure-search-openai-demo-csharp) - A sample app for the Retrieval-Augmented Generation pattern running in Azure, using Azure Cognitive Search for retrieval and Azure OpenAI large language models to power ChatGPT-style and Q&A experiences.
+* [elastic/elasticsearch-labs](https://github.com/elastic/elasticsearch-labs) - Notebooks & Example Apps for Search & AI Applications with Elasticsearch
 * [morsoli/llm-books](https://github.com/morsoli/llm-books) - 利用LLM构建应用实践笔记
+* [rubberduck-ai/rubberduck-vscode](https://github.com/rubberduck-ai/rubberduck-vscode) - Use AI-powered code edits, explanations, code generation, error diagnosis, and chat in Visual Studio Code with the official OpenAI API.
 * [yangjiakai/lux-ui](https://github.com/yangjiakai/lux-ui) - Create the best admin based on Vue3.x, Vite5.x, TypeScript, Vuetify3.x, Chat GPT
 * [xing61/zzz-api](https://github.com/xing61/zzz-api) - 优质稳定的OpenAI的API接口-For企业和开发者。OpenAI的api proxy，支持ChatGPT的API调用，支持openai的API接口，支持：gpt-4，gpt-3.5。不需要openai Key, 不需要买openai的账号，不需要美元的银行卡，通通不用的，直接调用就行，稳定好用！！智增增
 * [santiagobasulto/ipython-gpt](https://github.com/santiagobasulto/ipython-gpt) - An ChatGPT integration for Jupyter Notebooks and the IPython Shell
@@ -636,26 +636,26 @@ A curated list of awesome ChatGPT frameworks, libraries and software.
 * [kharvd/gpt-cli](https://github.com/kharvd/gpt-cli) - Command-line interface for ChatGPT, Claude and Bard
 * [jankais3r/LLaMA_MPS](https://github.com/jankais3r/LLaMA_MPS) - Run LLaMA (and Stanford-Alpaca) inference on Apple Silicon GPUs.
 * [X-D-Lab/MindChat](https://github.com/X-D-Lab/MindChat) - 🐋MindChat（漫谈）——心理大模型：漫谈人生路, 笑对风霜途
+* [CMKRG/QiZhenGPT](https://github.com/CMKRG/QiZhenGPT) - QiZhenGPT: An Open Source Chinese Medical Large Language Model｜一个开源的中文医疗大语言模型
 * [Anil-matcha/Chatbase-Alternative](https://github.com/Anil-matcha/Chatbase-Alternative) - ChatGPT for every website.Instantly answer your visitors' questions with a personalized chatbot trained on your website content. Alternative to Chatbase, SiteGPT, Dante AI
 * [ObservedObserver/viz-gpt](https://github.com/ObservedObserver/viz-gpt) - Make contextual data visualization with Chat Interface from tabular datasets. AI data visualization.
-* [CMKRG/QiZhenGPT](https://github.com/CMKRG/QiZhenGPT) - QiZhenGPT: An Open Source Chinese Medical Large Language Model｜一个开源的中文医疗大语言模型
 * [saharmor/awesome-chatgpt](https://github.com/saharmor/awesome-chatgpt) - Selected ChatGPT demos, tools, articles, and more ✨
 * [terminalcommandnewsletter/everything-chatgpt](https://github.com/terminalcommandnewsletter/everything-chatgpt) - 🔍 Explore what happens under the hood with the ChatGPT web app, its backend API calls and more. And some speculation, of course.
 * [abielzulio/chatgpt-raycast](https://github.com/abielzulio/chatgpt-raycast) - ChatGPT raycast extension
 * [CloudOrc/SolidUI](https://github.com/CloudOrc/SolidUI) - one sentence generates any graph
+* [WSTxda/Plugin-VoiceGPT](https://github.com/WSTxda/Plugin-VoiceGPT) - Use ChatGPT voice chat as your device voice assistant
 * [retrage/gpt-macro](https://github.com/retrage/gpt-macro) - ChatGPT powered Rust proc macro that generates code at compile-time.
 * [gridaco/assistant](https://github.com/gridaco/assistant) - 🤖  Bring your Figma design & development pipeline to the next level - with design to code, in-design-content-management, component management, tools for faster design
-* [brainlid/langchain](https://github.com/brainlid/langchain) - Elixir implementation of an AI focused LangChain style framework.
 * [madaan/self-refine](https://github.com/madaan/self-refine) - LLMs can generate feedback on their work, use it to improve the output, and repeat this process iteratively.
+* [brainlid/langchain](https://github.com/brainlid/langchain) - Elixir implementation of an AI focused LangChain style framework.
 * [anasfik/openai](https://github.com/anasfik/openai) - Dart/Flutter SDK for ChatGPT and all OpenAI APIs (GPT, Dall-e..)
-* [KeJunMao/ai-anything](https://github.com/KeJunMao/ai-anything) - 💞 Anyone can create GPT tools 人人都能创建 GPT 工具
 * [rgommezz/react-native-chatgpt](https://github.com/rgommezz/react-native-chatgpt) - A React Native wrapper around ChatGPT to seamlessly integrate it with your applications. It handles authentication, streamed responses, and keeping track of conversations. 100% client-side :robot:
+* [KeJunMao/ai-anything](https://github.com/KeJunMao/ai-anything) - 💞 Anyone can create GPT tools 人人都能创建 GPT 工具
 * [jianzhnie/LLamaTuner](https://github.com/jianzhnie/LLamaTuner) - Easy and Efficient Finetuning  LLMs. (Supported LLama, LLama2, LLama3, Qwen,  Baichuan, GLM , Falcon) 大模型高效量化训练+部署.
 * [RockChinQ/free-one-api](https://github.com/RockChinQ/free-one-api) - LLM 逆向工程接口管理 | 通过标准 OpenAI API 访问 ChatGPT / gpt4free / Bard / Claude / HuggingChat / 通义千问 等 AI 的破解版 || ChatGPT reverse engineering API management | Access all reverse engineered LLM libs by standard OpenAI API format  || 免费 ChatGPT Free GPT LLM API | 逆向工程 转 OpenAI API | converts all llm libs to OpenAI API
 * [RobustNLP/CipherChat](https://github.com/RobustNLP/CipherChat) - A framework to evaluate the generalization capability of safety alignment for LLMs
-* [WSTxda/Plugin-VoiceGPT](https://github.com/WSTxda/Plugin-VoiceGPT) - Use ChatGPT voice chat as your device voice assistant
-* [retkowsky/Azure-OpenAI-demos](https://github.com/retkowsky/Azure-OpenAI-demos) - Azure OpenAI (demos, documentation, accelerators).
 * [Navi-Studio/Virtual-Human-for-Chatting](https://github.com/Navi-Studio/Virtual-Human-for-Chatting) - Live2D Virtual Human for Chatting based on Unity
+* [retkowsky/Azure-OpenAI-demos](https://github.com/retkowsky/Azure-OpenAI-demos) - Azure OpenAI (demos, documentation, accelerators).
 * [Bryley/neoai.nvim](https://github.com/Bryley/neoai.nvim) - Neovim plugin for intracting with GPT models from OpenAI
 * [AIGCT/EASYChatGPT](https://github.com/AIGCT/EASYChatGPT) - This is an application project of 'chatgpt',only applicable to desktop environment.
 * [TheExplainthis/ChatGPT-Discord-Bot](https://github.com/TheExplainthis/ChatGPT-Discord-Bot) - This is a repository that allows you to integrate ChatGPT into Discord.
@@ -663,10 +663,10 @@ A curated list of awesome ChatGPT frameworks, libraries and software.
 * [lianginx/chatgpt-vue](https://github.com/lianginx/chatgpt-vue) - 使用 Vue3 + Typescript + Tailwind CSS 框架，调用 OpenAI 的 gpt-3.5-turbo 模型 API 实现的简单聊天对话，支持连续对话。
 * [kxxt/chatgpt-action](https://github.com/kxxt/chatgpt-action) - Let ChatGPT review PRs for you
 * [zhu327/gemini-openai-proxy](https://github.com/zhu327/gemini-openai-proxy) - A proxy for converting the OpenAI API protocol to the Google Gemini Pro protocol.
+* [your-papa/obsidian-Smart2Brain](https://github.com/your-papa/obsidian-Smart2Brain) - An Obsidian plugin to interact with your privacy focused AI-Assistant making your second brain even smarter!
 * [transitive-bullshit/chatgpt-plugin-ts](https://github.com/transitive-bullshit/chatgpt-plugin-ts) - Everything you need to start building ChatGPT Plugins in JS/TS 🔥
 * [sturdy-dev/codereview.gpt](https://github.com/sturdy-dev/codereview.gpt) - Reviews your Pull/Merge Requests using ChatGPT
 * [GPTGenius/chatgpt-vercel](https://github.com/GPTGenius/chatgpt-vercel) - Create a private ChatGPT website with one-click for free using Vercel -- 通过 Vercel 一键免费创建私有的 ChatGPT 站点
-* [your-papa/obsidian-Smart2Brain](https://github.com/your-papa/obsidian-Smart2Brain) - An Obsidian plugin to interact with your privacy focused AI-Assistant making your second brain even smarter!
 * [jiran214/langup-ai](https://github.com/jiran214/langup-ai) - AGI 社交网络 Bot.  BiliBili |  直播聊天数字人 | 视频@自动回复 | 私信bot | 终端聊天  |  语音交互
 * [voidful/TextRL](https://github.com/voidful/TextRL) - Implementation of ChatGPT RLHF (Reinforcement Learning with Human Feedback) on any generation model in huggingface's transformer (blommz-176B/bloom/gpt/bart/T5/MetaICL)
 * [bytemate/chatapi-single](https://github.com/bytemate/chatapi-single) - Simple and powerful ChatGPT-API-Server
@@ -676,119 +676,121 @@ A curated list of awesome ChatGPT frameworks, libraries and software.
 * [showlab/VLog](https://github.com/showlab/VLog) - Transform Video as a Document with ChatGPT, CLIP, BLIP2, GRIT, Whisper, LangChain.
 * [jeffhj/LM-reasoning](https://github.com/jeffhj/LM-reasoning) - This repository contains a collection of papers and resources on Reasoning in Large Language Models.
 * [labteral/chatgpt-python](https://github.com/labteral/chatgpt-python) - Unofficial Python SDK for OpenAI's ChatGPT
-* [toolkit-ai/toolkit-ai](https://github.com/toolkit-ai/toolkit-ai) - AI-agents that automatically generate and use Langchain Tools and ChatGPT plugins
 * [selefra/selefra](https://github.com/selefra/selefra) - The open-source policy-as-code software that provides analysis for Multi-Cloud and SaaS environments, you can get insight with natural language (powered by OpenAI).
+* [toolkit-ai/toolkit-ai](https://github.com/toolkit-ai/toolkit-ai) - AI-agents that automatically generate and use Langchain Tools and ChatGPT plugins
 * [bincooo/chatgpt-adapter](https://github.com/bincooo/chatgpt-adapter) - 集成了openai-api、bing、gemini、coze、claude、绘画 多款AI的聊天接口适配到 OpenAI API 标准接口服务端。
 * [shobrook/stackexplain](https://github.com/shobrook/stackexplain) - Explain your error message with ChatGPT
 * [codingonion/awesome-llm-and-aigc](https://github.com/codingonion/awesome-llm-and-aigc) - 🚀🚀🚀A collection of some awesome public projects about Large Language Model, Vision Foundation Model and AI Generated Content.
-* [continuum-llms/chatgpt-memory](https://github.com/continuum-llms/chatgpt-memory) - Allows to scale the ChatGPT API to multiple simultaneous sessions with infinite contextual and adaptive memory powered by GPT and Redis datastore.
 * [The-FinAI/PIXIU](https://github.com/The-FinAI/PIXIU) - This repository introduces PIXIU, an open-source resource featuring the first financial large language models (LLMs), instruction tuning data, and evaluation benchmarks to holistically assess financial LLMs. Our goal is to continually push forward the open-source development of financial artificial intelligence (AI).
-* [swuecho/chat](https://github.com/swuecho/chat) - chat web app for teams, sass with user management and ratelimit, support chatgpt(openai & azure), claude, gemini and ollama model
+* [continuum-llms/chatgpt-memory](https://github.com/continuum-llms/chatgpt-memory) - Allows to scale the ChatGPT API to multiple simultaneous sessions with infinite contextual and adaptive memory powered by GPT and Redis datastore.
 * [sunnweiwei/RankGPT](https://github.com/sunnweiwei/RankGPT) - Is ChatGPT Good at Search? LLMs as Re-Ranking Agent [EMNLP 2023 Outstanding Paper Award]
-* [patrikzudel/PatrikZeros-ChatGPT-API-UI](https://github.com/patrikzudel/PatrikZeros-ChatGPT-API-UI) - Static webpage that allows you to use your OpenAI API key for the same experience as you get with ChatGPT!
+* [swuecho/chat](https://github.com/swuecho/chat) - chat web app for teams, sass with user management and ratelimit, support chatgpt(openai & azure), claude, gemini and ollama model
 * [jupediaz/chatgpt-prompt-splitter](https://github.com/jupediaz/chatgpt-prompt-splitter) - ChatGPT PROMPTs Splitter. Tool for safely process chunks of up to 15,000 characters per request
+* [patrikzudel/PatrikZeros-ChatGPT-API-UI](https://github.com/patrikzudel/PatrikZeros-ChatGPT-API-UI) - Static webpage that allows you to use your OpenAI API key for the same experience as you get with ChatGPT!
 * [HorrorPills/ChatGPT-Gnome-Desktop-Extension](https://github.com/HorrorPills/ChatGPT-Gnome-Desktop-Extension) - ChatGPT Gnome Desktop Extension | Talk with ChatGPT from your menubar!
+* [MasterYip/ChatPaper2Xmind](https://github.com/MasterYip/ChatPaper2Xmind) - 论文XMind笔记生成工具，将论文pdf通过ChatGPT转换为带有图片和公式的简要XMind笔记，提高论文阅读效率。
 * [fuzhengwei/chatbot-api](https://github.com/fuzhengwei/chatbot-api) - 《ChatGPT AI 问答助手》 开源免费项目，涵盖爬虫接口、ChatGPT API对接、DDD架构设计、镜像打包、Docker容器部署，小巧精悍，流程全面。对于Java编程伙伴来说，非常具有学习价值。
 * [ZohaibAhmed/ChatGPT-Google](https://github.com/ZohaibAhmed/ChatGPT-Google) - Chrome Extension that Integrates ChatGPT (Unofficial) into Google Search
 * [shfshanyue/wechat-chatgpt](https://github.com/shfshanyue/wechat-chatgpt) - 基于 ChatGPT/MidJourney 的 AI 助手微信机器人，支持个人微信与企业微信，支持客服模式并实时更新
-* [MasterYip/ChatPaper2Xmind](https://github.com/MasterYip/ChatPaper2Xmind) - 论文XMind笔记生成工具，将论文pdf通过ChatGPT转换为带有图片和公式的简要XMind笔记，提高论文阅读效率。
 * [EvilPsyCHo/Play-with-LLMs](https://github.com/EvilPsyCHo/Play-with-LLMs) - Tutorial on training, evaluating LLM, as well as utilizing RAG, Agent, Chain to build entertaining applications with LLMs.分享如何训练、评估LLMs，如何基于RAG、Agent、Chain构建有趣的LLMs应用。
 * [lencx/GPTHub](https://github.com/lencx/GPTHub) - 🔍 Discover the Best in Custom GPT at OpenAI's GPT Store – Your Adventure Begins Here!
-* [noahgsolomon/brainrot.js](https://github.com/noahgsolomon/brainrot.js) - Text to video generator in the brainrot form. Learn about any topic from your favorite personalities 😼.
 * [jianzhnie/awesome-instruction-datasets](https://github.com/jianzhnie/awesome-instruction-datasets) - A collection of awesome-prompt-datasets, awesome-instruction-dataset, to train ChatLLM such as chatgpt 收录各种各样的指令数据集, 用于训练  ChatLLM 模型。
-* [pacholoamit/chatgpt-prompts](https://github.com/pacholoamit/chatgpt-prompts) - A NodeJS ChatGPT prompts library that contains more than 140+ awesome prompts
+* [noahgsolomon/brainrot.js](https://github.com/noahgsolomon/brainrot.js) - Text to video generator in the brainrot form. Learn about any topic from your favorite personalities 😼.
 * [uhub/awesome-chatgpt](https://github.com/uhub/awesome-chatgpt) - A curated list of awesome ChatGPT related projects.
-* [different-ai/embedbase](https://github.com/different-ai/embedbase) - A dead-simple API to build LLM-powered apps
+* [pacholoamit/chatgpt-prompts](https://github.com/pacholoamit/chatgpt-prompts) - A NodeJS ChatGPT prompts library that contains more than 140+ awesome prompts
 * [Neph0s/awesome-llm-role-playing-with-persona](https://github.com/Neph0s/awesome-llm-role-playing-with-persona) - Awesome-llm-role-playing-with-persona: a curated list of resources for large language models for role-playing with assigned personas
 * [xuhangc/ChatGPT-Academic-Prompt](https://github.com/xuhangc/ChatGPT-Academic-Prompt) - Use ChatGPT for academic writing
-* [evanhu1/talk2arxiv](https://github.com/evanhu1/talk2arxiv) - Talk to any ArXiv paper using ChatGPT
+* [different-ai/embedbase](https://github.com/different-ai/embedbase) - A dead-simple API to build LLM-powered apps
 * [LiangYang666/ChatGPT-Web](https://github.com/LiangYang666/ChatGPT-Web) - 使用GPT-3.5 API创建的ChatGPT聊天页面，支持云部署，多用户使用，多对话管理，公式显示，流式动态显示，windows和linux均可极简部署，网页版 html python flask
+* [evanhu1/talk2arxiv](https://github.com/evanhu1/talk2arxiv) - Talk to any ArXiv paper using ChatGPT
 * [rnadigital/agentcloud](https://github.com/rnadigital/agentcloud) - Agent Cloud is like having your own GPT builder with a bunch extra goodies. The GUI features 1) RAG pipeline which can natively embed 260+ datasources 2) Create Conversational apps (like GPTs) 3) Create Multi Agent process automation apps (crewai) 4) Tools 5) Teams+user permissions. Get started fast with Docker and our install.sh
-* [vastsa/AILink](https://github.com/vastsa/AILink) - ChatGPT 商业版，支持ChatGPT图像识别、dalle3、GPT4-turbo，自定义插件，自定义模型，自定义接口，ChatGPT4，Midjourney绘图，Claude，百度文心一言，Azure，轻应用模块，用户登录注册，邀请激励，在线支付，角色扮演，实时连续对话网页版，查询余额，完全自定义模型接口，可自己对接，代码显示高亮
 * [ChatBot-All/chatbot-app](https://github.com/ChatBot-All/chatbot-app) - "ChatBot" AI application, supporting GPT,  Gemini Pro, Cohere & Ollama models
-* [ruvnet/Bot-Generator-Bot](https://github.com/ruvnet/Bot-Generator-Bot) - The ultimate bot generator bot prompt. Use this prompt to create powerful ChatGPT bots for anything you can imagine.
-* [V-know/ChatGPT-Telegram-Bot](https://github.com/V-know/ChatGPT-Telegram-Bot) - A Telegram bot with a silky smooth AI experience.
+* [vastsa/AILink](https://github.com/vastsa/AILink) - ChatGPT 商业版，支持ChatGPT图像识别、dalle3、GPT4-turbo，自定义插件，自定义模型，自定义接口，ChatGPT4，Midjourney绘图，Claude，百度文心一言，Azure，轻应用模块，用户登录注册，邀请激励，在线支付，角色扮演，实时连续对话网页版，查询余额，完全自定义模型接口，可自己对接，代码显示高亮
 * [chatbookai/ai-to-pptx](https://github.com/chatbookai/ai-to-pptx) - Ai-to-pptx是一个使用AI技术(DeepSeek)制作PPTX的助手，支持在线修改和导出PPTX。 主要功能: 1 使用ChatGPT等大语言模型来生成大纲 2 生成的内容允许用户再次修改 3 生成PPTX的时候可以选择不同的模板 4 支持在线修改PPTX的文字内容，样式，图片等 5 支持导出PPTX，PDF，PNG等多种格式
+* [V-know/ChatGPT-Telegram-Bot](https://github.com/V-know/ChatGPT-Telegram-Bot) - A Telegram bot with a silky smooth AI experience.
+* [ruvnet/Bot-Generator-Bot](https://github.com/ruvnet/Bot-Generator-Bot) - The ultimate bot generator bot prompt. Use this prompt to create powerful ChatGPT bots for anything you can imagine.
+* [yokingma/search_with_ai](https://github.com/yokingma/search_with_ai) - 🤖 Free Search with AI, 💡 Open-Source Perplexity, 📍 Support Ollama/SearXNG, Support Docker deployment.  让AI大模型和搜索引擎回答你的问题，支持本地大模型(Ollama)、聚合搜索引擎SearXNG，支持Docker一键部署。
+* [rnchg/Apt](https://github.com/rnchg/Apt) - AI Productivity Tool - Free and open-source, enhancing user productivity while ensuring privacy and data security. It provides efficient and convenient AI solutions, including but not limited to: built-in exclusive ChatGPT, one-click batch intelligent processing of images and videos, and more.
 * [B1lli/BillyGPT](https://github.com/B1lli/BillyGPT) - 可自动优化提示、免费开源、全平台傻瓜式 ChatGPT 本地客户端，支持断点续聊、修改历史对话、本地聊天记录存储导入导出、添加自己的 apikey
 * [linux-china/chatgpt-spring-boot-starter](https://github.com/linux-china/chatgpt-spring-boot-starter) - Spring Boot ChatGPT Starter
-* [rnchg/Apt](https://github.com/rnchg/Apt) - AI Productivity Tool - Free and open-source, enhancing user productivity while ensuring privacy and data security. It provides efficient and convenient AI solutions, including but not limited to: built-in exclusive ChatGPT, one-click batch intelligent processing of images and videos, and more.
 * [kevinamiri/Instructgpt-prompts](https://github.com/kevinamiri/Instructgpt-prompts) - A collection of ChatGPT and GPT-3.5 instruction-based prompts for generating and classifying text.
 * [e2b-dev/llm-code-interpreter](https://github.com/e2b-dev/llm-code-interpreter) - [DEPRECATED] Powered by AI Playgrounds by E2B. Code interpreter on steroids for ChatGPT. Run any language, any terminal process, use filesystem freely. All with access to the internet.
 * [shibing624/ChatPilot](https://github.com/shibing624/ChatPilot) - ChatPilot: Chat Agent Web UI，实现Chat对话前端，支持Google搜索、文件网址对话（RAG）、代码解释器功能，复现了Kimi Chat(文件，拖进来；网址，发出来)。
-* [yokingma/search_with_ai](https://github.com/yokingma/search_with_ai) - 🤖 Free Search with AI, 💡 Open-Source Perplexity, 📍 Support Ollama/SearXNG, Support Docker deployment.  让AI大模型和搜索引擎回答你的问题，支持本地大模型(Ollama)、聚合搜索引擎SearXNG，支持Docker一键部署。
 * [flyun/chatAir](https://github.com/flyun/chatAir) - ☁️A native Android app for ChatGPT, Gemini, and Claude ☁️ChatGPT、Gemini 和 Claude 的原生安卓应用程序
 * [hallatore/stable-diffusion-webui-chatgpt-utilities](https://github.com/hallatore/stable-diffusion-webui-chatgpt-utilities) - Enables use of ChatGPT directly from the UI
-* [morpheuslord/GPT_Vuln-analyzer](https://github.com/morpheuslord/GPT_Vuln-analyzer) - Uses ChatGPT API, Bard API, and Llama2, Python-Nmap, DNS Recon, PCAP and JWT recon modules and uses the GPT3 model to create vulnerability reports based on Nmap scan data, and DNS scan information. It can also perform subdomain enumeration to a great extent
-* [Sansekai/Wa-OpenAI](https://github.com/Sansekai/Wa-OpenAI) - WhatsApp Bot OpenAI ChatGPT NodeJS Using Library Baileys
-* [KroMiose/nonebot_plugin_naturel_gpt](https://github.com/KroMiose/nonebot_plugin_naturel_gpt) - 一个基于NoneBot框架的Ai聊天插件，对接OpenAi文本生成接口，实现了机器人的人格 自定义/切换，聊天记忆等功能
 * [kardolus/chatgpt-cli](https://github.com/kardolus/chatgpt-cli) - ChatGPT CLI is a versatile tool for interacting with ChatGPT models via OpenAI and Azure, as well as with models from Perplexity AI. It offers streaming, query mode, and history tracking for seamless, context-aware interactions. With extensive configuration options, it’s designed for both users and developers to create a tailored GPT experience.
+* [Sansekai/Wa-OpenAI](https://github.com/Sansekai/Wa-OpenAI) - WhatsApp Bot OpenAI ChatGPT NodeJS Using Library Baileys
+* [morpheuslord/GPT_Vuln-analyzer](https://github.com/morpheuslord/GPT_Vuln-analyzer) - Uses ChatGPT API, Bard API, and Llama2, Python-Nmap, DNS Recon, PCAP and JWT recon modules and uses the GPT3 model to create vulnerability reports based on Nmap scan data, and DNS scan information. It can also perform subdomain enumeration to a great extent
 * [junhoyeo/BetterOCR](https://github.com/junhoyeo/BetterOCR) - 🔍 Better text detection by combining multiple OCR engines (EasyOCR, Tesseract, and Pororo) with 🧠 LLM.
 * [ReadSomething/ReadSomething](https://github.com/ReadSomething/ReadSomething) - 📖 一个开源的 Chrome 插件，可以将网页转成阅读模式，并且内置了 AI 总结、翻译、Markdown 转换等功能。
+* [KroMiose/nonebot_plugin_naturel_gpt](https://github.com/KroMiose/nonebot_plugin_naturel_gpt) - 一个基于NoneBot框架的Ai聊天插件，对接OpenAi文本生成接口，实现了机器人的人格 自定义/切换，聊天记忆等功能
+* [ShipBit/slickgpt](https://github.com/ShipBit/slickgpt) - SlickGPT is a light-weight "use-your-own-API-key" web client for the OpenAI API written in Svelte. It offers GPT-4 integration, a userless share feature and other superpowers.
 * [aledipa/Free-GPT4-WEB-API](https://github.com/aledipa/Free-GPT4-WEB-API) - FreeGPT4-WEB-API is a python server that allows you to have a self-hosted GPT-4 Unlimited and Free WEB API, via the latest Bing's AI (and much more).
 * [EyuCoder/chatgpt-pro](https://github.com/EyuCoder/chatgpt-pro) - ChatGPT-Pro is an advanced application that combines the power of ChatGPT and DALL.E.
-* [ShipBit/slickgpt](https://github.com/ShipBit/slickgpt) - SlickGPT is a light-weight "use-your-own-API-key" web client for the OpenAI API written in Svelte. It offers GPT-4 integration, a userless share feature and other superpowers.
-* [dense-analysis/neural](https://github.com/dense-analysis/neural) - AI Vim/Neovim code generation plugin (OpenAI, ChatGPT, and more)
 * [conceptofmind/LaMDA-rlhf-pytorch](https://github.com/conceptofmind/LaMDA-rlhf-pytorch) - Open-source pre-training implementation of Google's LaMDA in PyTorch. Adding RLHF similar to ChatGPT.
 * [Ai00-X/ai00_server](https://github.com/Ai00-X/ai00_server) - A localized open-source AI server that is better than ChatGPT.
-* [Grt1228/chatgpt-steam-output](https://github.com/Grt1228/chatgpt-steam-output) - Open AI ChatGPT流式输出。Open AI Stream output. ChatGPT Stream output.GPT-3.5
-* [finaldie/auto-news](https://github.com/finaldie/auto-news) - A personal news aggregator to pull information from multi-sources + LLM (ChatGPT/Gemini/Ollama via LangChain) to help us reading efficiently with less noises, the sources including: Tweets, RSS, YouTube, Web Articles, Reddit, and personal Journal notes.
-* [wewehao/flutter_chatgpt](https://github.com/wewehao/flutter_chatgpt) - Flutter ChatGPT APP. The chatgpt chat app implemented by flutter supports custom modes and contextual continuous dialogue. In addition, it supports admob advertisement configuration, accessing open screen advertisements, interstitial advertisements, Banner advertisements, etc.
-* [cloudquery/pg_gpt](https://github.com/cloudquery/pg_gpt) - Experimental extension that brings OpenAI API to your PostgreSQL to run queries in human language.
-* [chatgpt-prompts/ChatGPT-Midjourney-Prompt-Generator](https://github.com/chatgpt-prompts/ChatGPT-Midjourney-Prompt-Generator) - This turns ChatGPT into a prompt generating machine that acceps only predefined inputs and responds with only predefined outputs.
+* [dense-analysis/neural](https://github.com/dense-analysis/neural) - AI Vim/Neovim code generation plugin (OpenAI, ChatGPT, and more)
 * [yunwei37/Prompt-Engineering-Guide-zh-CN](https://github.com/yunwei37/Prompt-Engineering-Guide-zh-CN) - 🐙 关于提示词工程（prompt）的指南、论文、讲座、笔记本和资源大全（自动持续更新）
+* [finaldie/auto-news](https://github.com/finaldie/auto-news) - A personal news aggregator to pull information from multi-sources + LLM (ChatGPT/Gemini/Ollama via LangChain) to help us reading efficiently with less noises, the sources including: Tweets, RSS, YouTube, Web Articles, Reddit, and personal Journal notes.
+* [Grt1228/chatgpt-steam-output](https://github.com/Grt1228/chatgpt-steam-output) - Open AI ChatGPT流式输出。Open AI Stream output. ChatGPT Stream output.GPT-3.5
+* [cloudquery/pg_gpt](https://github.com/cloudquery/pg_gpt) - Experimental extension that brings OpenAI API to your PostgreSQL to run queries in human language.
+* [wewehao/flutter_chatgpt](https://github.com/wewehao/flutter_chatgpt) - Flutter ChatGPT APP. The chatgpt chat app implemented by flutter supports custom modes and contextual continuous dialogue. In addition, it supports admob advertisement configuration, accessing open screen advertisements, interstitial advertisements, Banner advertisements, etc.
+* [chatgpt-prompts/ChatGPT-Midjourney-Prompt-Generator](https://github.com/chatgpt-prompts/ChatGPT-Midjourney-Prompt-Generator) - This turns ChatGPT into a prompt generating machine that acceps only predefined inputs and responds with only predefined outputs.
 * [superiorlu/AITreasureBox](https://github.com/superiorlu/AITreasureBox) - 🤖 Collect practical AI repos, tools, websites, papers and tutorials on AI. 实用的AI百宝箱 💎
 * [EmbraceAGI/Awesome-AGI](https://github.com/EmbraceAGI/Awesome-AGI) - A curated list of awesome AGI frameworks, software and resources
 * [OcularEngineering/ocular](https://github.com/OcularEngineering/ocular) - AI Powered Search and Chat for Orgs - Think ChatGPT meets Google Search but powered by your data.
 * [THU-KEG/EvaluationPapers4ChatGPT](https://github.com/THU-KEG/EvaluationPapers4ChatGPT) - Resource, Evaluation and Detection Papers for ChatGPT
 * [llSourcell/ChatGPT_Sports_Betting_Bot](https://github.com/llSourcell/ChatGPT_Sports_Betting_Bot) - This is the code for "I Built a Sports Betting Bot with ChatGPT" by Siraj Raval on Youtube
 * [OpenGVLab/Multi-Modality-Arena](https://github.com/OpenGVLab/Multi-Modality-Arena) - Chatbot Arena meets multi-modality! Multi-Modality Arena allows you to benchmark vision-language models side-by-side while providing images as inputs. Supports MiniGPT-4, LLaMA-Adapter V2, LLaVA, BLIP-2, and many more!
-* [IncomeStreamSurfer/chatgptassistantautoblogger](https://github.com/IncomeStreamSurfer/chatgptassistantautoblogger) - This autoblogger uses the GPT assistant's API to autoblog on ecommerce websites
 * [cosin2077/chaty](https://github.com/cosin2077/chaty) - one line code, satisfied all your ChatGPT imagination✨✨✨
-* [kazuki-sf/ChatGPT_Extension](https://github.com/kazuki-sf/ChatGPT_Extension) - ChatGPT Extension is a really simple Chrome Extension (manifest v3) that you can access OpenAI's ChatGPT from anywhere on the web.
 * [withcatai/catai](https://github.com/withcatai/catai) - Run AI ✨ assistant locally! with simple API for Node.js 🚀
+* [IncomeStreamSurfer/chatgptassistantautoblogger](https://github.com/IncomeStreamSurfer/chatgptassistantautoblogger) - This autoblogger uses the GPT assistant's API to autoblog on ecommerce websites
 * [Ruu3f/freeGPT](https://github.com/Ruu3f/freeGPT) - freeGPT provides free access to text and image generation models.
+* [kazuki-sf/ChatGPT_Extension](https://github.com/kazuki-sf/ChatGPT_Extension) - ChatGPT Extension is a really simple Chrome Extension (manifest v3) that you can access OpenAI's ChatGPT from anywhere on the web.
 * [zhpd/chatgpt-plus](https://github.com/zhpd/chatgpt-plus) - 🚀 Open source free ChatGPT App (Web, Mac, Windows and Linux).  免费开源的ChatGPT应用程序.
-* [marcolardera/chatgpt-cli](https://github.com/marcolardera/chatgpt-cli) - Simple yet effective command line client for chatting with ChatGPT using the official API
 * [wodsuz/EasyApplyJobsBot](https://github.com/wodsuz/EasyApplyJobsBot) - A python bot to automatically apply all Linkedin,Glassdoor, etc Easy Apply jobs based on your preferences. Auto login, auto fill additional questions, apply automatically!
+* [marlaman/show-me](https://github.com/marlaman/show-me) - A visual and transparent alternative to open-source ChatGPT O1
+* [marcolardera/chatgpt-cli](https://github.com/marcolardera/chatgpt-cli) - Simple yet effective command line client for chatting with ChatGPT using the official API
+* [zhangliwei7758/unity-AI-Chat-Toolkit](https://github.com/zhangliwei7758/unity-AI-Chat-Toolkit) - 使用unity实现AI聊天相关功能。目前这个库包含了对chatgpt、chatglm等大语言模型的api调用的代码实现以及实现了微软Azure以及百度AI的语音服务功能，语音服务均采用web api实现，支持Windows/WebGL/Android等平台
 * [seratch/ChatGPT-in-Slack](https://github.com/seratch/ChatGPT-in-Slack) - Swift demonstration of how to build a Slack app that enables end-users to interact with a ChatGPT bot
-* [NCZkevin/chatglm-web](https://github.com/NCZkevin/chatglm-web) - 用 FastAPI 和 Vue3 搭建的 ChatGLM 网页 (前端样式仿照chatgpt-web, 支持chatglm流式输出、前端调整参数、上下文选择、保存图片、知识库问答等功能)
 * [Azure-Samples/openai-plugin-fastapi](https://github.com/Azure-Samples/openai-plugin-fastapi) - A simple ChatGPT Plugin running in Codespaces for dev and Azure for production.
 * [zetavg/LLaMA-LoRA-Tuner](https://github.com/zetavg/LLaMA-LoRA-Tuner) - UI tool for fine-tuning and testing your own LoRA models base on LLaMA, GPT-J and more. One-click run on Google Colab. + A Gradio ChatGPT-like Chat UI to demonstrate your language models.
+* [NCZkevin/chatglm-web](https://github.com/NCZkevin/chatglm-web) - 用 FastAPI 和 Vue3 搭建的 ChatGLM 网页 (前端样式仿照chatgpt-web, 支持chatglm流式输出、前端调整参数、上下文选择、保存图片、知识库问答等功能)
 * [kaarthik108/snowChat](https://github.com/kaarthik108/snowChat) - Chat snowflake database - Text to SQL
+* [lobehub/lobe-chat-agents](https://github.com/lobehub/lobe-chat-agents) - 🤖 / 🏪 Agent Index - This is the agent index for LobeChat. It accesses index.json from this repository to display a list of available agents for LobeChat to the agent market.
 * [e-johnstonn/wingmanAI](https://github.com/e-johnstonn/wingmanAI) - Real-time transcription of audio, integrated with ChatGPT for interactive use. Save, load, and append transcripts for effective context management in conversations.
-* [zhangliwei7758/unity-AI-Chat-Toolkit](https://github.com/zhangliwei7758/unity-AI-Chat-Toolkit) - 使用unity实现AI聊天相关功能。目前这个库包含了对chatgpt、chatglm等大语言模型的api调用的代码实现以及实现了微软Azure以及百度AI的语音服务功能，语音服务均采用web api实现，支持Windows/WebGL/Android等平台
 * [yuanjie-ai/ChatLLM](https://github.com/yuanjie-ai/ChatLLM) - 轻松玩转LLM兼容openai&langchain，支持文心一言、讯飞星火、腾讯混元、智谱ChatGLM等
 * [RafalWilinski/cloudflare-rag](https://github.com/RafalWilinski/cloudflare-rag) - Fullstack "Chat with your PDFs" RAG (Retrieval Augmented Generation) app built fully on Cloudflare
-* [lobehub/lobe-chat-agents](https://github.com/lobehub/lobe-chat-agents) - 🤖 / 🏪 Agent Index - This is the agent index for LobeChat. It accesses index.json from this repository to display a list of available agents for LobeChat to the agent market.
 * [ashinnotfound/ChatGPT-YourChatRobot](https://github.com/ashinnotfound/ChatGPT-YourChatRobot) - ❤开箱即用❤an unofficial implement of ChatGPT in QQ/Wechat. 一个非官方的ChatGPT腾讯qq/微信(非公众号)实现版，快来把你的qq或微信变成chatgpt吧
 * [video-db/StreamRAG](https://github.com/video-db/StreamRAG) - Video Search and Streaming Agent 🕵️‍♂️
 * [juzeon/poe-openai-proxy](https://github.com/juzeon/poe-openai-proxy) - A wrapper that lets you use the reverse-engineered Python library poe-api library as if it was the OpenAI API for ChatGPT. You can connect your favorite OpenAI API based apps to this proxy and enjoy the ChatGPT API for free!
 * [dappros/ethora](https://github.com/dappros/ethora) - A 'super app' engine for your project. React Native (iOS, Android) and React.js (Web, desktop). Social Sign In 🄵, Messaging 💬 (chat, voice, push notifications), Web3 Wallet 🪪 (profile QR, documents, coins, NFT), DLT 🔐 (provenance, crypto signing), Gamification 🤩, Social Commerce and more.
-* [shm007g/LLaMA-Cult-and-More](https://github.com/shm007g/LLaMA-Cult-and-More) - Large Language Models for All, 🦙 Cult and More, Stay in touch !
-* [silvanmelchior/IncognitoPilot](https://github.com/silvanmelchior/IncognitoPilot) - An AI code interpreter for sensitive data, powered by GPT-4 or Code Llama / Llama 2.
-* [ozgrozer/chatgpt-artifacts](https://github.com/ozgrozer/chatgpt-artifacts) - Bring Claude's Artifacts feature to ChatGPT
 * [meetpateltech/AI-Infinity](https://github.com/meetpateltech/AI-Infinity) - A set of AI tools that will help you explore the infinite possibilities of AI.
-* [Jordan-Gilliam/ai-template](https://github.com/Jordan-Gilliam/ai-template) - Mercury - Train your own custom GPT. Chat with any file, or website.
+* [silvanmelchior/IncognitoPilot](https://github.com/silvanmelchior/IncognitoPilot) - An AI code interpreter for sensitive data, powered by GPT-4 or Code Llama / Llama 2.
+* [shm007g/LLaMA-Cult-and-More](https://github.com/shm007g/LLaMA-Cult-and-More) - Large Language Models for All, 🦙 Cult and More, Stay in touch !
+* [ozgrozer/chatgpt-artifacts](https://github.com/ozgrozer/chatgpt-artifacts) - Bring Claude's Artifacts feature to ChatGPT
 * [neurocult/agency](https://github.com/neurocult/agency) - 🕵️‍♂️ Library designed for developers eager to explore the potential of Large Language Models (LLMs) and other generative AI through a clean, effective, and Go-idiomatic approach.
-* [marcusGoncalvess/zap-gpt-free](https://github.com/marcusGoncalvess/zap-gpt-free) - Este projeto explora a integração do ChatGPT com o WhatsApp, transformando o chatbot em um assistente virtual capaz de realizar tarefas como falar com amigos, responder a perguntas de clientes, e muito mais, com um toque de humanização nas conversas.
-* [dulaiduwang003/TIME-SEA-chatgpt](https://github.com/dulaiduwang003/TIME-SEA-chatgpt) - 基于SpringBoot3开发的Ai平台 含双端 网页以及小程序 包含各类Ai模型 和绘图 ,含支付 双端数据同步 支持自定义预设词,功能板块定义  web兼容手机展示
 * [trzy/ChatARKit](https://github.com/trzy/ChatARKit) - Using ChatGPT to create AR experiences with natural language.
+* [marcusGoncalvess/zap-gpt-free](https://github.com/marcusGoncalvess/zap-gpt-free) - Este projeto explora a integração do ChatGPT com o WhatsApp, transformando o chatbot em um assistente virtual capaz de realizar tarefas como falar com amigos, responder a perguntas de clientes, e muito mais, com um toque de humanização nas conversas.
+* [Jordan-Gilliam/ai-template](https://github.com/Jordan-Gilliam/ai-template) - Mercury - Train your own custom GPT. Chat with any file, or website.
 * [dqzboy/ChatGPT-Proxy](https://github.com/dqzboy/ChatGPT-Proxy) - ChatGPT Proxy Project：一键部署 go-chatgpt-api 和 ninja 逆向工程
 * [horizon-ui/chatgpt-ai-template](https://github.com/horizon-ui/chatgpt-ai-template) - 🧠 Horizon AI Template - Trendiest Open-source ChatGPT UI AI Template & Starter Kit for React, NextJS & Chakra UI
+* [dulaiduwang003/TIME-SEA-chatgpt](https://github.com/dulaiduwang003/TIME-SEA-chatgpt) - 基于SpringBoot3开发的Ai平台 含双端 网页以及小程序 包含各类Ai模型 和绘图 ,含支付 双端数据同步 支持自定义预设词,功能板块定义  web兼容手机展示
 * [SkyWorkAIGC/SkyText-Chinese-GPT3](https://github.com/SkyWorkAIGC/SkyText-Chinese-GPT3) - SkyText是由奇点智源发布的中文GPT3预训练大模型，可以进行文章续写、对话、中英翻译、内容风格生成、推理、诗词对联等不同任务。| SkyText is a Chinese GPT3 pre-trained large model released by Singularity-AI, which can perform different tasks such as chatting, Q&A, and Chinese-English translation.
+* [mindspore-courses/step_into_llm](https://github.com/mindspore-courses/step_into_llm) - MindSpore online courses: Step into LLM
 * [judahpaul16/gpt-home](https://github.com/judahpaul16/gpt-home) - ChatGPT at home! Basically a better Google Nest Hub or Amazon Alexa home assistant. Built on the Raspberry Pi using the OpenAI API.
+* [rush86999/atomic](https://github.com/rush86999/atomic) - Chat with and teach your calendar to solve your scheduling & time problems
 * [PawanOsman/GoogleBard](https://github.com/PawanOsman/GoogleBard) - GoogleBard - A reverse engineered API for Google Bard chatbot for NodeJS
 * [openai-translator/raycast-openai-translator](https://github.com/openai-translator/raycast-openai-translator) - 基于 ChatGPT API 的 Raycast 翻译插件 - Raycast extension for translation based on ChatGPT API.
-* [mindspore-courses/step_into_llm](https://github.com/mindspore-courses/step_into_llm) - MindSpore online courses: Step into LLM
 * [qiayue/php-openai-gpt-stream-chat-api-webui](https://github.com/qiayue/php-openai-gpt-stream-chat-api-webui) - 不使用任何框架，php + html + css + js 原生实现 openai gpt chat 接口对接，实现流式数据传输和接收，附带简洁网页demo。
-* [rush86999/atomic](https://github.com/rush86999/atomic) - Chat with and teach your calendar to solve your scheduling & time problems
 * [EmbraceAGI/AIGC_Interview](https://github.com/EmbraceAGI/AIGC_Interview) - 📚 AIGC 求职面经、必备基础知识、提示词工程、ChatGPT、Stable Diffusion、Prompt、Embedding、Fintune 等 AIGC 求职你所需要知道的一切~
 * [kyegomez/Gemini](https://github.com/kyegomez/Gemini) - The open source implementation of Gemini, the model that will "eclipse ChatGPT" by Google
 * [amrrs/chatgpt-clone](https://github.com/amrrs/chatgpt-clone) - Build Yo'own ChatGPT with OpenAI API & Gradio
 * [4as/ChatGPT-DeMod](https://github.com/4as/ChatGPT-DeMod) - Tampermonkey/Greasemonkey script that hides the moderation results when communicating with ChatGPT.
+* [ErikBjare/gptme](https://github.com/ErikBjare/gptme) - Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web, vision.
 * [Mattie/cataclysm](https://github.com/Mattie/cataclysm) - Cataclysm - Code generation library for the end game
-* [Sha1rholder/use-ChatGPT-in-GFW](https://github.com/Sha1rholder/use-ChatGPT-in-GFW) - 在中国境内使用OpenAI服务的方法
 * [lucgagan/auto-playwright](https://github.com/lucgagan/auto-playwright) - Automating Playwright steps using ChatGPT.
+* [Sha1rholder/use-ChatGPT-in-GFW](https://github.com/Sha1rholder/use-ChatGPT-in-GFW) - 在中国境内使用OpenAI服务的方法
 * [onejune2018/Awesome-LLM-Eval](https://github.com/onejune2018/Awesome-LLM-Eval) - Awesome-LLM-Eval: a curated list of tools, datasets/benchmark, demos, leaderboard, papers, docs and models, mainly for Evaluation on LLMs.  一个由工具、基准/数据、演示、排行榜和大模型等组成的精选列表，主要面向基础大模型评测，旨在探求生成式AI的技术边界.
 * [HemulGM/ChatGPT](https://github.com/HemulGM/ChatGPT) - ChatGPT Native Application (Windows, Mac, Android, iOS, and Linux)
 * [oneil512/INSIGHT](https://github.com/oneil512/INSIGHT) - INSIGHT is an autonomous AI that can do medical research!
@@ -797,16 +799,15 @@ A curated list of awesome ChatGPT frameworks, libraries and software.
 * [cuishuang/explain-source-code-by-chatgpt](https://github.com/cuishuang/explain-source-code-by-chatgpt) - 👂🏻 chatgpt讲解Go知名项目的源码
 * [joshcho/ChatGPT.el](https://github.com/joshcho/ChatGPT.el) - ChatGPT in Emacs
 * [UNICKCHENG/openai-proxy](https://github.com/UNICKCHENG/openai-proxy) - openai-proxy is a solution provided for Chinese users to address the issue of being unable to make requests to the OpenAI API.
-* [awekrx/AutoDoc-ChatGPT](https://github.com/awekrx/AutoDoc-ChatGPT) - AutoDoc-ChatGPT is a Python script that leverages the power of ChatGPT model to automatically generate documentation for any programming language. With AutoDoc-ChatGPT, you can easily generate comprehensive documentation for your codebase.
 * [kirklin/celeris-web](https://github.com/kirklin/celeris-web) - Celeris Web is a highly performant and customizable front-end development template built with Vue 3, Vite, and TypeScript. It features the latest syntax, components and APIs auto importing, state management, Chinese font presets, internationalization, and integration with OpenAI's ChatGPT API.
-* [jushahulian/java-go-python](https://github.com/jushahulian/java-go-python) - 包含海量课程各类it学习视频教程，最新版，持续更新，java，python，go,C,C++,C#,前端，数据库，大数据，人工智能，AIGC，ChatGPT，软件测试，网络安全/逆向，鸿蒙应用开发，Android等学习课程分享。
+* [awekrx/AutoDoc-ChatGPT](https://github.com/awekrx/AutoDoc-ChatGPT) - AutoDoc-ChatGPT is a Python script that leverages the power of ChatGPT model to automatically generate documentation for any programming language. With AutoDoc-ChatGPT, you can easily generate comprehensive documentation for your codebase.
 * [LanceMoe/openai-translator](https://github.com/LanceMoe/openai-translator) - A translator that uses OpanAI.
-* [1mrat/gpt-stats](https://github.com/1mrat/gpt-stats) - Stats for Custom Chat GPTs not created by OpenAI
 * [tisfeng/Raycast-Easydict](https://github.com/tisfeng/Raycast-Easydict) - A Raycast Extension for looking up words or translating text in an easy way. Support 48+ languages, support Linguee and Youdao dictionary, support OpenAI, DeepL, Google, Bing, Apple, Baidu, Tencent, Volcano, Youdao and Caiyun translation.
+* [jushahulian/java-go-python](https://github.com/jushahulian/java-go-python) - 包含海量课程各类it学习视频教程，最新版，持续更新，java，python，go,C,C++,C#,前端，数据库，大数据，人工智能，AIGC，ChatGPT，软件测试，网络安全/逆向，鸿蒙应用开发，Android等学习课程分享。
+* [1mrat/gpt-stats](https://github.com/1mrat/gpt-stats) - Stats for Custom Chat GPTs not created by OpenAI
 * [Raychanan/ChatGPT-for-Translation](https://github.com/Raychanan/ChatGPT-for-Translation) - Use Python and ChatGPT for translation. 利用Python和ChatGPT完成翻译
 * [gia-guar/JARVIS-ChatGPT](https://github.com/gia-guar/JARVIS-ChatGPT) - A Conversational Assistant equipped with synthetic voices including J.A.R.V.I.S's. Powered by OpenAI and IBM Watson APIs and a Tacotron model for voice generation.
 * [gtoxlili/wechat-chatGPT](https://github.com/gtoxlili/wechat-chatGPT) - 实现微信公众号被动返回接口的ChatGPT
-* [ErikBjare/gptme](https://github.com/ErikBjare/gptme) - Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web, vision.
 * [pedrorito/ChatGPTSlackBot](https://github.com/pedrorito/ChatGPTSlackBot) - 🤖 A Slack bot that integrates with OpenAI's ChatGPT to provide answers, written in Python
 * [cgsvv/AISubtitle](https://github.com/cgsvv/AISubtitle) - AI subtiltle tool. Translate your subtitle with GPT.  使用chatGPT来翻译你的字幕
 * [MoonKraken/rusty_llama](https://github.com/MoonKraken/rusty_llama) - A simple ChatGPT clone in Rust on both the frontend and backend. Uses open source language models and TailwindCSS.
@@ -815,83 +816,85 @@ A curated list of awesome ChatGPT frameworks, libraries and software.
 * [oceanlvr/ChatGPT-ProBot](https://github.com/oceanlvr/ChatGPT-ProBot) - 🤖️ A ChatGPT based GitHub robot. dialogue/CR/etc..
 * [sytpb/chatgpt-wework-robot](https://github.com/sytpb/chatgpt-wework-robot) - 零代码、一键部署chatgpt到企业微信，无须VPN，速度快
 * [chrislemke/ChatFred](https://github.com/chrislemke/ChatFred) - Alfred workflow using ChatGPT, DALL·E 2 and other models for chatting, image generation and more.
+* [PawanOsman/ChatGPT.Net](https://github.com/PawanOsman/ChatGPT.Net) - C# library for ChatGPT using official OpenAI API
 * [josStorer/selfhostedAI](https://github.com/josStorer/selfhostedAI) - A collection of one-click self-hosted AI
 * [idosal/AgentLLM](https://github.com/idosal/AgentLLM) - AgentLLM is a PoC for browser-native autonomous agents
 * [kyegomez/Sophia](https://github.com/kyegomez/Sophia) -  Effortless plugin and play Optimizer to cut model training costs by 50%.  New optimizer that is 2x faster than Adam on LLMs.
-* [PawanOsman/ChatGPT.Net](https://github.com/PawanOsman/ChatGPT.Net) - C# library for ChatGPT using official OpenAI API
 * [BobaZooba/xllm](https://github.com/BobaZooba/xllm) - 🦖 X—LLM: Cutting Edge & Easy LLM Finetuning
 * [AlexanderChen-Real/Awesome-ChatGPT-Chinese](https://github.com/AlexanderChen-Real/Awesome-ChatGPT-Chinese) - ChatGPT中文资料库：为了帮助广大的中文开发者和学习者更好地理解和运用OpenAI的ChatGPT技术而创建的。我们会在这个仓库中持续更新有关ChatGPT的教程，工具介绍，中文资料，包括但不限于工具使用教程、资料，论文、应用实例和ChatGPT社区等。
 * [cedrickchee/chatgpt-universe](https://github.com/cedrickchee/chatgpt-universe) - ChatGPT Universe is fleeting notes on ChatGPT, GPT, and large language models (LLMs)
 * [slippersheepig/chatgpt-web](https://github.com/slippersheepig/chatgpt-web) - 使用官方ChatGPT API实现简单HTML网页版在线聊天（支持markdown语法、多用户会话隔离及连续对话）
-* [logankilpatrick/ChatGPT-Simple](https://github.com/logankilpatrick/ChatGPT-Simple) - Build a simple locally hosted version of ChatGPT in less than 100 lines of code
 * [xueandyue/ChatGPT-AccessToken-Web](https://github.com/xueandyue/ChatGPT-AccessToken-Web) - 本项目基于使用accesstoken的方式实现了网页版 ChatGPT 的前端，是用ChatGPT-Next-Web项目进行修改而得，默认Main分支对接gpt3.5的模型，gpt4分支对接gpt4模型。另外本项目需要的后端服务是pandoranext项目。项目是站在ChatGPT-Next-Web和pandoranext项目的作者肩膀上，感谢他们！
+* [logankilpatrick/ChatGPT-Simple](https://github.com/logankilpatrick/ChatGPT-Simple) - Build a simple locally hosted version of ChatGPT in less than 100 lines of code
 * [PrathamKumar14/ChatGPT-Prompts](https://github.com/PrathamKumar14/ChatGPT-Prompts) - AI is taking over slowly. Here are some use ChatGPT/API prompts that help you unlock 100% of your productivity.
 * [Jeadie/awesome-chatgpt-plugins](https://github.com/Jeadie/awesome-chatgpt-plugins) - A curated list of awesome ChatGPT plugins, demos and Posts
 * [greshake/Alice](https://github.com/greshake/Alice) - Giving ChatGPT access to a real terminal
 * [MQEnergy/chatcat](https://github.com/MQEnergy/chatcat) - ChatCat a Purer OpenAI-Based Client
 * [josephrocca/OpenCharacters](https://github.com/josephrocca/OpenCharacters) - Simple little web interface for creating characters and chatting with them. It's basically a single HTML file - no server. Share characters using a link (character data is stored within the URL itself). All chat data is stored in your browser using IndexedDB. Currently supports OpenAI APIs and ~any Hugging Face model.
-* [hanyuancheung/gpt-go](https://github.com/hanyuancheung/gpt-go) - OpenAI ChatGPT/GPT-4/GPT-3 SDK Go Client to Interact with the GPT-4/GPT-3 APIs.
-* [jstrieb/paperify](https://github.com/jstrieb/paperify) - Transform any document, web page, or eBook into a research paper (ChatGPT not required)
 * [HenryXiaoYang/XYBot](https://github.com/HenryXiaoYang/XYBot) - XYBot是一个可运行于Linux和Windows的基于Hook的微信机器人🤖️！✅高度可自定义！ ✅支持自我编写插件！非常多的功能：天气🌤️、获取新闻📰、ChatGPT聊天🗣️、Hypixel玩家查询🎮、随机图片📷、随机链接🔗、随机群成员👥、五子棋♟️、签到✅、查询积分📊、积分榜🏆、积分转送💰、积分抽奖🎁、积分红包🧧等
+* [hanyuancheung/gpt-go](https://github.com/hanyuancheung/gpt-go) - OpenAI ChatGPT/GPT-4/GPT-3 SDK Go Client to Interact with the GPT-4/GPT-3 APIs.
+* [llm-ui-kit/llm-ui](https://github.com/llm-ui-kit/llm-ui) - The React library for LLMs
+* [jstrieb/paperify](https://github.com/jstrieb/paperify) - Transform any document, web page, or eBook into a research paper (ChatGPT not required)
+* [dreamhunter2333/chatgpt-tarot-divination](https://github.com/dreamhunter2333/chatgpt-tarot-divination) - AI 算命，占卜，塔罗牌，姓名五格，周公解梦，生辰八字，梅花易数
 * [Doriandarko/BabyAGIChatGPT](https://github.com/Doriandarko/BabyAGIChatGPT) - A ChatGPT plugin to run BabyAI directly in the chat interface
 * [SparkGPT001/gpt-tutorial-101](https://github.com/SparkGPT001/gpt-tutorial-101) - ChatGPT从0到1学习资料汇总，入门/原理/应用/场景/实操，最好的GPT学习中文文档
+* [sozercan/aikit](https://github.com/sozercan/aikit) - 🏗️ Fine-tune, build, and deploy open-source LLMs easily!
 * [guangzhengli/vectorhub](https://github.com/guangzhengli/vectorhub) - Quickly and easily build AI website or application by using embeddings!
 * [genia-dev/GeniA](https://github.com/genia-dev/GeniA) - Your Engineering Gen AI Team member 🧬🤖💻
-* [dreamhunter2333/chatgpt-tarot-divination](https://github.com/dreamhunter2333/chatgpt-tarot-divination) - AI 算命，占卜，塔罗牌，姓名五格，周公解梦，生辰八字，梅花易数
-* [sozercan/aikit](https://github.com/sozercan/aikit) - 🏗️ Fine-tune, build, and deploy open-source LLMs easily!
-* [llm-ui-kit/llm-ui](https://github.com/llm-ui-kit/llm-ui) - The React library for LLMs
 * [lencx/awesome-ai](https://github.com/lencx/awesome-ai) - 🤖 Awesome AI
+* [X-D-Lab/Sunsimiao](https://github.com/X-D-Lab/Sunsimiao) - 🌿孙思邈中文医疗大模型(Sunsimiao)：提供安全、可靠、普惠的中文医疗大模型
 * [talkdai/dialog](https://github.com/talkdai/dialog) - RAG LLM Ops App for easy deployment and testing
 * [Illumine-Labs/Mr.Translate](https://github.com/Illumine-Labs/Mr.Translate) - ChatGPT 翻译助手 Prompt
 * [imyuanx/chatgpt-proxy](https://github.com/imyuanx/chatgpt-proxy) - One-click deployment of the ChatGPT private proxy, power by Next.js
 * [FishHawk/auto-novel](https://github.com/FishHawk/auto-novel) - 轻小说机翻网站，支持网络小说/文库小说/本地小说
 * [zjunlp/EasyInstruct](https://github.com/zjunlp/EasyInstruct) - [ACL 2024] An Easy-to-use Instruction Processing Framework for LLMs.
-* [X-D-Lab/Sunsimiao](https://github.com/X-D-Lab/Sunsimiao) - 🌿孙思邈中文医疗大模型(Sunsimiao)：提供安全、可靠、普惠的中文医疗大模型
 * [RockChinQ/qcg-installer](https://github.com/RockChinQ/qcg-installer) - ChatGPT QQ 机器人的自动安装器，自动化部署，适用于QChatGPT项目: https://github.com/RockChinQ/QChatGPT
-* [linyuxuanlin/Auto-i18n](https://github.com/linyuxuanlin/Auto-i18n) - 使用 ChatGPT 自动将 Markdown 文件批量翻译为多语言 | Auto translate Markdown files to multi languages using ChatGPT
-* [zhuweiyou/chatgpt-api](https://github.com/zhuweiyou/chatgpt-api) - 封装 OpenAI 网页版最新 ChatGPT 接口, 不需要使用 API Key, 完全免费
-* [getActivity/AiIndex](https://github.com/getActivity/AiIndex) - ChatGPT
 * [AllYourBot/hostedgpt](https://github.com/AllYourBot/hostedgpt) - An open version of ChatGPT you can host anywhere or run locally.
+* [zhuweiyou/chatgpt-api](https://github.com/zhuweiyou/chatgpt-api) - 封装 OpenAI 网页版最新 ChatGPT 接口, 不需要使用 API Key, 完全免费
+* [linyuxuanlin/Auto-i18n](https://github.com/linyuxuanlin/Auto-i18n) - 使用 ChatGPT 自动将 Markdown 文件批量翻译为多语言 | Auto translate Markdown files to multi languages using ChatGPT
+* [getActivity/AiIndex](https://github.com/getActivity/AiIndex) - ChatGPT
+* [theAbdoSabbagh/UnlimitedGPT](https://github.com/theAbdoSabbagh/UnlimitedGPT) - An unofficial Python wrapper for OpenAI's ChatGPT API
 * [Nashex/gpt4-playground](https://github.com/Nashex/gpt4-playground) - Clone of OpenAI's ChatGPT and Playground environments to enable experimenting with API keys.
 * [fanchunke/chatgpt-wecom](https://github.com/fanchunke/chatgpt-wecom) - 企业微信接入 GPT3
-* [theAbdoSabbagh/UnlimitedGPT](https://github.com/theAbdoSabbagh/UnlimitedGPT) - An unofficial Python wrapper for OpenAI's ChatGPT API
 * [niw/AlpacaChat](https://github.com/niw/AlpacaChat) - A Swift library that runs Alpaca-LoRA prediction locally to implement ChatGPT like app on Apple platform devices.
 * [Kento-Sec/chatGPT-CodeReview](https://github.com/Kento-Sec/chatGPT-CodeReview) - 这是一个调用chatGPT进行代码审计的工具
-* [Asterecho/ExcelGPT](https://github.com/Asterecho/ExcelGPT) - chatgpt for Excel ，基于ExcelDNA开发
 * [CL-lau/SQL-GPT](https://github.com/CL-lau/SQL-GPT) - Use ChatGPT to generate SQL and perform execution. Optimization and error correction of SQL is also possible.
+* [Asterecho/ExcelGPT](https://github.com/Asterecho/ExcelGPT) - chatgpt for Excel ，基于ExcelDNA开发
 * [smxl/500](https://github.com/smxl/500) - Quantumult X 预配置文件: Apple News 解锁, 去广告, 分流规则, Bing AI, TikTok 解锁 Rewrite, VIP 视频解析
-* [nicepkg/gpt-runner](https://github.com/nicepkg/gpt-runner) - Conversations with your files! Manage and run your AI presets!
 * [ke0z/VulChatGPT](https://github.com/ke0z/VulChatGPT) - Use IDA PRO HexRays decompiler with OpenAI(ChatGPT) to find possible vulnerabilities in binaries
+* [nicepkg/gpt-runner](https://github.com/nicepkg/gpt-runner) - Conversations with your files! Manage and run your AI presets!
 * [devchat-ai/devchat](https://github.com/devchat-ai/devchat) - Automate your dev tasks with AI-powered scripts, from your IDE's chat panel.
 * [tinystruct/smalltalk](https://github.com/tinystruct/smalltalk) - A tinystruct-based chat module which integrated with @OpenAI GPT-3 / 3.5-turbo / ChatGPT. @tinystruct
 * [hisabi-app/hisabi](https://github.com/hisabi-app/hisabi) - 💰 Free open-source personal finance tracking web application powered by ChatGPT.
-* [gitzboy/testremote](https://github.com/gitzboy/testremote) - (Free GPT Chinese Mirror List)免费GPT国内镜像列表
 * [zjunlp/AutoKG](https://github.com/zjunlp/AutoKG) - LLMs for Knowledge Graph Construction and Reasoning: Recent Capabilities and Future Opportunities
+* [gitzboy/testremote](https://github.com/gitzboy/testremote) - (Free GPT Chinese Mirror List)免费GPT国内镜像列表
 * [azkadev/llama](https://github.com/azkadev/llama) - LLaMA (Language Learning for Machine Translation) adalah proyek riset yang diprakarsai oleh Facebook AI Research (FAIR) yang bertujuan untuk meningkatkan kualitas terjemahan mesin menggunakan pendekatan yang lebih alami dan berfokus pada bahasa asal.
 * [vietanhdev/shipfast](https://github.com/vietanhdev/shipfast) - The best free SaaS base for GenAI, LLM, and other AI Services.  Ship your next Generative AI startups in days.
 * [gnehs/subtitle-translator](https://github.com/gnehs/subtitle-translator) - Translate subtitle using ChatGPT
 * [c-ttpfx/chatgpt-java-wx](https://github.com/c-ttpfx/chatgpt-java-wx) - chatgpt微信聊天小程序。java编写服务器，实现chatgpt接口的调用，微信小程序用于聊天。二者基于webSocket进行通信
 * [TuringAI-Team/chatgpt-discord-bot](https://github.com/TuringAI-Team/chatgpt-discord-bot) - The ultimate AI-powered Discord bot
 * [LagPixelLOL/ChatGPTCLIBot](https://github.com/LagPixelLOL/ChatGPTCLIBot) - ChatGPT Bot in CLI with long term memory support using Embeddings.
-* [D7EAD/liboai](https://github.com/D7EAD/liboai) - A C++17 library to access the entire OpenAI API.
 * [kholmogorov27/chevron](https://github.com/kholmogorov27/chevron) - Powerful and highly functional startpage integrated with chatGPT and hidden under the super minimalistic and animated design (static/hosted/github pages)
+* [D7EAD/liboai](https://github.com/D7EAD/liboai) - A C++17 library to access the entire OpenAI API.
+* [abshare/abshare.github.io](https://github.com/abshare/abshare.github.io) - 每日分享免费节点、免费机场、ssr节点、v2ray节点、v2ray订阅、clash节点、clash订阅、shadowrocket订阅、Quantumult X订阅、Clash .NET订阅、小火箭节点、小猫咪节点、免费翻墙、免费科学上网、免费梯子、免费trojan节点、蓝灯、谷歌商店、翻墙梯子、安卓VPN、iphone翻墙节点、iphone vpn、一键翻墙浏览器、节点分享、免费SSR、蓝灯、谷歌商店、V2ary免费节点、代理、proxy代理科学上网、TG代理、电报代理、Telegram代理、ip加速、翻墙软件、socks5、破解VPN、机场推荐、节点订阅、破解VPN、ChatGPT
 * [Mon-ius/Docker-Warp-Socks](https://github.com/Mon-ius/Docker-Warp-Socks) - Connet to CloudFlare WARP, exposing `socks5` proxy all together.
 * [adamlui/chatgpt-apps](https://github.com/adamlui/chatgpt-apps) - 🤖 Apps that utilize the astounding power of ChatGPT or enhance its UX
 * [timkmecl/chatgpt-vscode](https://github.com/timkmecl/chatgpt-vscode) - VSCode extension that allows you to use ChatGPT or GPT4 inside the IDE
-* [matthaigh27/ChatGPT-android-app](https://github.com/matthaigh27/ChatGPT-android-app) - Android app for accessing ChatGPT
-* [awekrx/ChatGPT-MidJourney-prompt](https://github.com/awekrx/ChatGPT-MidJourney-prompt) - This is a ChatGPT based prompt generation model for MidJorney. The purpose of this model is to simplify the creation of images and increase their creativity. By introducing a partial hint, ChatGPT creates a follow-up that can be used to stimulate creativity and provide new ideas.
-* [abshare/abshare.github.io](https://github.com/abshare/abshare.github.io) - 每日分享免费节点、免费机场、ssr节点、v2ray节点、v2ray订阅、clash节点、clash订阅、shadowrocket订阅、Quantumult X订阅、Clash .NET订阅、小火箭节点、小猫咪节点、免费翻墙、免费科学上网、免费梯子、免费trojan节点、蓝灯、谷歌商店、翻墙梯子、安卓VPN、iphone翻墙节点、iphone vpn、一键翻墙浏览器、节点分享、免费SSR、蓝灯、谷歌商店、V2ary免费节点、代理、proxy代理科学上网、TG代理、电报代理、Telegram代理、ip加速、翻墙软件、socks5、破解VPN、机场推荐、节点订阅、破解VPN、ChatGPT
-* [leon-fong/ChatGPT-miniprogram](https://github.com/leon-fong/ChatGPT-miniprogram) - 🤖 ChatGPT 小程序
-* [ai919/Awesome-ChatGPT](https://github.com/ai919/Awesome-ChatGPT) - 🤖 Awesome ChatGPT 中文全指南 🤖这是一个ChatGPT相关的持续更新知识库。如果你对该领域保持着兴趣欢迎关注并运用该知识库！
 * [TypingMind/typingmind](https://github.com/TypingMind/typingmind) - The most advanced Web UI for AI chat
+* [matthaigh27/ChatGPT-android-app](https://github.com/matthaigh27/ChatGPT-android-app) - Android app for accessing ChatGPT
+* [ai919/Awesome-ChatGPT](https://github.com/ai919/Awesome-ChatGPT) - 🤖 Awesome ChatGPT 中文全指南 🤖这是一个ChatGPT相关的持续更新知识库。如果你对该领域保持着兴趣欢迎关注并运用该知识库！
+* [Mino260806/KeyboardGPT](https://github.com/Mino260806/KeyboardGPT) - LSPosed Module to integrate Generative AI like ChatGPT in keyboard.
+* [leon-fong/ChatGPT-miniprogram](https://github.com/leon-fong/ChatGPT-miniprogram) - 🤖 ChatGPT 小程序
+* [awekrx/ChatGPT-MidJourney-prompt](https://github.com/awekrx/ChatGPT-MidJourney-prompt) - This is a ChatGPT based prompt generation model for MidJorney. The purpose of this model is to simplify the creation of images and increase their creativity. By introducing a partial hint, ChatGPT creates a follow-up that can be used to stimulate creativity and provide new ideas.
 * [tectalichq/public-openai-client-php](https://github.com/tectalichq/public-openai-client-php) - OpenAI API Client for PHP. Includes all endpoints and models (DTOs) for all requests and responses.
-* [steven-tey/weathergpt](https://github.com/steven-tey/weathergpt) - ChatGPT Plugin starter template built with Next.js 13 App Router, Edge Functions, and Vercel
 * [wenhaomin/ChatGPT-PromptGenius](https://github.com/wenhaomin/ChatGPT-PromptGenius) - All-purpose prompts website with hierarchical classification system. Helps you quickly find and share wonderful prompts!  全面、有效的提示词大全网站，帮助提升生产力和质量。
-* [edgenai/edgen](https://github.com/edgenai/edgen) - ⚡  Edgen: Local, private GenAI server alternative to OpenAI. No GPU required. Run AI models locally: LLMs (Llama2, Mistral, Mixtral...), Speech-to-text (whisper) and many others.
+* [steven-tey/weathergpt](https://github.com/steven-tey/weathergpt) - ChatGPT Plugin starter template built with Next.js 13 App Router, Edge Functions, and Vercel
 * [CogStack/OpenGPT](https://github.com/CogStack/OpenGPT) - A framework for creating grounded instruction based datasets and training conversational domain expert Large Language Models (LLMs).
+* [mksshare/mksshare.github.io](https://github.com/mksshare/mksshare.github.io) - 每日分享免费节点、免费机场、ssr节点、v2ray节点、v2ray订阅、clash节点、clash订阅、shadowrocket订阅、Quantumult X订阅、Clash .NET订阅、小火箭节点、小猫咪节点、免费翻墙、免费科学上网、免费梯子、免费trojan节点、蓝灯、谷歌商店、翻墙梯子、安卓VPN、iphone翻墙节点、iphone vpn、一键翻墙浏览器、节点分享、免费SSR、蓝灯、谷歌商店、V2ary免费节点、代理、proxy代理科学上网、TG代理、电报代理、Telegram代理、ip加速、翻墙软件、socks5、破解VPN、机场推荐、节点订阅、破解VPN、ChatGPT
+* [edgenai/edgen](https://github.com/edgenai/edgen) - ⚡  Edgen: Local, private GenAI server alternative to OpenAI. No GPU required. Run AI models locally: LLMs (Llama2, Mistral, Mixtral...), Speech-to-text (whisper) and many others.
 * [victorharry/zap-gpt](https://github.com/victorharry/zap-gpt) - ChatGPT para Whatsapp
-* [sailist/chatgpt-enhancement-extension](https://github.com/sailist/chatgpt-enhancement-extension) - An all-in-one plugin to improve your ChatGPT experience!
 * [hackingthemarkets/chatgpt-api-whisper-api-voice-assistant](https://github.com/hackingthemarkets/chatgpt-api-whisper-api-voice-assistant) - chatgpt api and whisper api tutorial - voice conversation with therapist
+* [sailist/chatgpt-enhancement-extension](https://github.com/sailist/chatgpt-enhancement-extension) - An all-in-one plugin to improve your ChatGPT experience!
 * [NsLearning/LangHelper](https://github.com/NsLearning/LangHelper) - Striving to create a great Application with full functions of learning languages by ChatGPT, TTS, STT and other awesome AI models, supports talking, speaking assessment, memorizing words with contexts, Listening test, so on.
 * [lspahija/AIUI](https://github.com/lspahija/AIUI) - AIUI is a platform enabling seamless two-way verbal communication with AI.
 * [feder-cr/linkedIn_auto_jobs_applier_with_AI](https://github.com/feder-cr/linkedIn_auto_jobs_applier_with_AI) - LinkedIn_AIHawk is a tool that automates  the jobs application process on LinkedIn. Utilizing artificial intelligence, it enables users to apply for multiple job offers in an automated and personalized way.
@@ -1010,7 +1013,6 @@ A curated list of awesome ChatGPT frameworks, libraries and software.
 * [Knowly-ai/langtorch](https://github.com/Knowly-ai/langtorch) - 🔥 Building composable LLM applications & workflow with Java.
 * [logspace-ai/langflow](https://github.com/logspace-ai/langflow) - ⛓️ Langflow is a dynamic graph where each node is an executable unit. Its modular and interactive design fosters rapid experimentation and prototyping, pushing hard on the limits of creativity.
 * [benf2004/AI-Prompt-Genius](https://github.com/benf2004/AI-Prompt-Genius) - Curate a custom library of AI Prompts
-* [mksshare/mksshare.github.io](https://github.com/mksshare/mksshare.github.io) - 每日分享免费节点,免费机场,ssr节点,v2ray节点,v2ray订阅,clash节点,clash订阅,shadowrocket订阅,Quantumult X订阅,Clash .NET订阅,小火箭节点,小猫咪节点,免费翻墙,免费科学上网,免费梯子,免费trojan节点,蓝灯,谷歌商店,翻墙梯子,安卓VPN,iphone翻墙节点,iphone vpn,节点分享,免费SSR,蓝灯,谷歌商店,V2ary免费节点,代理,proxy代理科学上网,TG代理,电报代理,Telegram代理,翻墙软件,破解VPN,机场推荐,节点订阅,chatgpt节点,chatgpt机场,chatgpt代理
 * [yangjiakai/lux-admin-vuetify3](https://github.com/yangjiakai/lux-admin-vuetify3) - Create the best admin based on Vue3.2, Vite4.1, TypeScript, Vuetify3, Chat GPT,Firebase etc.
 * [temphiddenacc/UnlimitedGPT](https://github.com/temphiddenacc/UnlimitedGPT) - An unofficial Python wrapper for OpenAI's ChatGPT API
 * [hisaby/finance](https://github.com/hisaby/finance) - 💰 Free open-source personal finance tracking web application powered by ChatGPT.
