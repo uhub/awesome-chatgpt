@@ -2,7 +2,7 @@
 
 A curated list of awesome ChatGPT frameworks, libraries and software.
 
-* [Emu](https://image.tinchak0207.xyz) - Online GPT Image 2 & Nano Banana Pro image generator, no API key or relay setup required
+* [Eimu](https://eimu.art) - Online GPT Image 2 & Nano Banana Pro image generator, no API key or relay setup required
 * [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
 * [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 * [langflow-ai/langflow](https://github.com/langflow-ai/langflow) - Langflow is a powerful tool for building and deploying AI-powered agents and workflows.
