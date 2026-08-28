@@ -1442,6 +1442,7 @@ A curated list of awesome ChatGPT frameworks, libraries and software.
 * [jmpaz/promptlib](https://github.com/jmpaz/promptlib) - A collection of prompts for use with GPT-4 via ChatGPT, OpenAI API w/ Gradio frontend & notebook
 * [HemulGM/DelphiOpenAI](https://github.com/HemulGM/DelphiOpenAI) - OpenAI API wrapper for Delphi. Use ChatGPT, DALL-E, Whisper and other products.
 * [glovebx/moco-ai-client](https://github.com/glovebx/moco-ai-client) - Concurrently chat with ChatGPT, Bing Chat, Bard, Poe on Android Phone FREELY
+* [Orkas-AI/Orkas](https://github.com/Orkas-AI/Orkas) - Open-source, local-first desktop AI workforce coordinated by a Commander through one chat.
 * [AdmTal/chat-gpt-games](https://github.com/AdmTal/chat-gpt-games) - Prompts for playable games in ChatGPT
 * [Valdecy/pyDecision](https://github.com/Valdecy/pyDecision) - pyDecision is a comprehensive Python library that encompasses a wide array of Multi-Criteria Decision Analysis (MCDA) methods. These powerful and versatile tools assist in making effective decisions by comparing alternatives based on multiple criteria, making it a valuable resource for researchers, analysts, and decision-makers.
 * [masuidrive/slack-summarizer](https://github.com/masuidrive/slack-summarizer) - OpenAI's ChatGPT API to create and post a summary of a Slack public channel.
